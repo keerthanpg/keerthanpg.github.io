@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keerthanapg</title>
-    <link>https://www.keerthanapg.com/</link>
-    <description>Recent content on keerthanapg</description>
+    <title>Bookreviews on keerthanapg</title>
+    <link>https://www.keerthanapg.com/bookreviews/</link>
+    <description>Recent content in Bookreviews on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Oct 2021 17:37:56 -0700</lastBuildDate><atom:link href="https://www.keerthanapg.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 17:37:56 -0700</lastBuildDate><atom:link href="https://www.keerthanapg.com/bookreviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime</title>
       <link>https://www.keerthanapg.com/bookreviews/endingaging/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://www.keerthanapg.com/bookreviews/endingaging/</guid>
       <description>Aubrey de Grey, Michael Rae    Currently reading, stay tuned.</description>
-    </item>
-    
-    <item>
-      <title>Book Reviews</title>
-      <link>https://www.keerthanapg.com/bookreviews/</link>
-      <pubDate>Wed, 13 Oct 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://www.keerthanapg.com/bookreviews/</guid>
-      <description>2021     Cryptoassets: The Innovative Investor&amp;rsquo;s Guide to Bitcoin and Beyond How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need 80,000 Hours: Find a fulfilling career that does good Options Trading Crash Course On Palestine Working Backwards: Insights, Stories, and Secrets from Inside Amazon The Art of Loving Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love Deep Work: Rules for Focused Success in a Distracted World How Innovation Works and Why It Flourishes in Freedom Competitive Strategy: Techniques for Analyzing Industries and Competitors Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime  Click for older book reviews</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://www.keerthanapg.com/projects/</link>
-      <pubDate>Wed, 13 Oct 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://www.keerthanapg.com/projects/</guid>
-      <description>Self Driving Data Visualization     Data visualization for status quo on the race to build the self driving car. Demos - 2020, 2019 Code  RL bots on StarCraft 2     Built RL bots to play StarCraft 2 by adapting A3C algorithm and training in Deepmind-Blizzard StarCraft 2 environment Video demos, Paper  Multimodal emotion detection     Built a multimodal emotion recognition system with team of 3 in collaboration with Emotech AI.</description>
     </item>
     
     <item>
@@ -118,17 +100,6 @@ While that advice is useful, I felt that the book was fraught with homophobia an
       
       <guid>https://www.keerthanapg.com/bookreviews/optionstrading/</guid>
       <description>Frank Richmond    Rating 2/5    Skip and read investopedia. The last chapter on greeks and options strategies is actually useful though. The book, at times is very procedural.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.keerthanapg.com/about/</link>
-      <pubDate>Sun, 21 Mar 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://www.keerthanapg.com/about/</guid>
-      <description>Hi
-I am Keerthana! I am a roboticist at Google Brain, so by day I convert coffee into code for training robots to do everyday tasks. I can talk endlessly about artificial intelligence and self-driving. I am also passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality.
-A part of my day is spent playing with my pug puppy Kiwi, who is monstrosity and innocence rolled into one.</description>
     </item>
     
     <item>
