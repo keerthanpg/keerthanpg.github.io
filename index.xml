@@ -6,7 +6,16 @@
     <description>Recent content on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Oct 2021 17:37:56 -0700</lastBuildDate><atom:link href="https://keerthanapg.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 17:37:56 -0700</lastBuildDate><atom:link href="https://keerthanapg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reward is Not Not Enough: A Rebuttal to a Rebuttal</title>
+      <link>https://keerthanapg.com/posts/rewardisnotnotenough/</link>
+      <pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/posts/rewardisnotnotenough/</guid>
+      <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
+    </item>
+    
     <item>
       <title>My Happy Orchid</title>
       <link>https://keerthanapg.com/posts/happyorchid/</link>
