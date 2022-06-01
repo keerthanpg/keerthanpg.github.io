@@ -6,22 +6,39 @@
     <description>Recent content on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Mar 2022 17:37:56 -0700</lastBuildDate><atom:link href="https://keerthanapg.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Mar 2021 17:37:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://keerthanapg.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recipe: Horse gram, Kale and Sprouts salad with Rice</title>
+      <link>https://keerthanapg.com/random/quarantine-meals/</link>
+      <pubDate>Mon, 21 Mar 2022 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/quarantine-meals/</guid>
+      <description>Served with a side of boiled rice.
+Horse Gram Stir Fried: Originally posted here
+Ingredients:
+ Horse gram — 1 cup Salt — 1 tbsp Water — 2 cups Green chillies — 4 Red chilli powder — 0.5 tbsp Olive oil — 2 Tbsp Garlic — 3 cloves Curry leaves — optional  Preparation:
+ Boil the horse gram with water and salt in a closed container / pressure cooker until cooked.</description>
+    </item>
+    
     <item>
       <title>Reward is Not Not Enough: AGI and Reward Maximization</title>
-      <link>https://keerthanapg.com/posts/rewardisnotnotenough/</link>
+      <link>https://keerthanapg.com/tech/reward-is-not-not-enough/</link>
       <pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/posts/rewardisnotnotenough/</guid>
+      <guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
       <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
     </item>
     
     <item>
       <title>My Happy Orchid</title>
-      <link>https://keerthanapg.com/posts/happyorchid/</link>
+      <link>https://keerthanapg.com/poetry/happy-orchid/</link>
       <pubDate>Sat, 30 Oct 2021 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/posts/happyorchid/</guid>
+      <guid>https://keerthanapg.com/poetry/happy-orchid/</guid>
       <description>I have a happy orchid plant
 One that blooms white with a purple hue
 Standing against my window nonchalant
@@ -36,116 +53,36 @@ As dust settled on its glossy green leaves</description>
     </item>
     
     <item>
-      <title>Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime</title>
-      <link>https://keerthanapg.com/bookreviews/endingaging/</link>
-      <pubDate>Thu, 21 Oct 2021 17:37:56 -0700</pubDate>
+      <title>Silence</title>
+      <link>https://keerthanapg.com/poetry/silence/</link>
+      <pubDate>Fri, 26 Mar 2021 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/bookreviews/endingaging/</guid>
-      <description>Aubrey de Grey, Michael Rae    Currently reading, stay tuned.</description>
+      <guid>https://keerthanapg.com/poetry/silence/</guid>
+      <description>Originally posted on Medium
+Silence
+Like an ocean that leaps and bounds
+Like a dragon that kicks and breathes fire, alive
+Like a wide chasm between us
+Our hearts are so far, far apart
+Closed to each other
+Though for a second we were so close
+Like a bridge out into happiness
+Like a hand that appears while drowning
+But now I’m puzzled
+Standing on a vast mountain range
+Looking into caves very strange</description>
     </item>
     
     <item>
-      <title>Book Reviews</title>
-      <link>https://keerthanapg.com/bookreviews/</link>
-      <pubDate>Wed, 13 Oct 2021 17:37:56 -0700</pubDate>
+      <title>Lazy Sunday Morning</title>
+      <link>https://keerthanapg.com/random/lazy-sunday-morning/</link>
+      <pubDate>Mon, 22 Mar 2021 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/bookreviews/</guid>
-      <description>2021     Cryptoassets: The Innovative Investor&amp;rsquo;s Guide to Bitcoin and Beyond How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need 80,000 Hours: Find a fulfilling career that does good Options Trading Crash Course On Palestine Working Backwards: Insights, Stories, and Secrets from Inside Amazon The Art of Loving Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love Deep Work: Rules for Focused Success in a Distracted World How Innovation Works and Why It Flourishes in Freedom Competitive Strategy: Techniques for Analyzing Industries and Competitors Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime  Click for older book reviews</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://keerthanapg.com/projects/</link>
-      <pubDate>Wed, 13 Oct 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/projects/</guid>
-      <description>Self Driving Data Visualization     Data visualization for status quo on the race to build the self driving car. Demos - 2020, 2019 Code  RL bots on StarCraft 2     Built RL bots to play StarCraft 2 by adapting A3C algorithm and training in Deepmind-Blizzard StarCraft 2 environment Video demos, Paper  Multimodal emotion detection     Built a multimodal emotion recognition system with team of 3 in collaboration with Emotech AI.</description>
-    </item>
-    
-    <item>
-      <title>Competitive Strategy: Techniques for Analyzing Industries and Competitors</title>
-      <link>https://keerthanapg.com/bookreviews/competitivestrategy/</link>
-      <pubDate>Thu, 30 Sep 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/competitivestrategy/</guid>
-      <description>Michael E Porter    Rating 2/5    This book was written more than 40 years ago and is textbook MBA material. Porters five forces analysis is a useful tool in any case study paradigm. Most of the book reads like common sense to me probably because much of its content has percolated into popular knowledge over the decades since it was written. I also think that its content has not particular suitable to address current tech industries where most of the wealth in the world is created today.</description>
-    </item>
-    
-    <item>
-      <title>How Innovation Works and Why It Flourishes in Freedom </title>
-      <link>https://keerthanapg.com/bookreviews/innovation/</link>
-      <pubDate>Mon, 20 Sep 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/innovation/</guid>
-      <description>Matt Ridley    My rating 4/5    Matt Ridley&amp;rsquo;s How Innovation Works is best consumed as an audio book. The book traces the history of innovation in several industries including energy, public health, transport, food, communication and computers. The later half focuses on deriving rules about innovation given the history.
-Among the stories of innovation, a case that stuck with me was the state of nuclear energy, which is a promising renewable source that is carbon free, but since iterating to improve the technology is rendered costly due to safety and environmental laws and guarantees, we are stuck with technology that is decades old.</description>
-    </item>
-    
-    <item>
-      <title>Deep Work: Rules for Focused Success in a Distracted World</title>
-      <link>https://keerthanapg.com/bookreviews/deepwork/</link>
-      <pubDate>Sat, 28 Aug 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/deepwork/</guid>
-      <description>Cal Newport    My rating: 5/5    Deep Work is a book about focusing. Given the barrage of distractions in today&amp;rsquo;s world, ranging from push notifications, social media and the expectation of responding fast to emails and work group chats, it becomes harder to do the type of work that requires deep focus.
-The first few chapters talk about what deep work is and part 2 is about a few tips to get there.</description>
-    </item>
-    
-    <item>
-      <title>Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love</title>
-      <link>https://keerthanapg.com/bookreviews/attached/</link>
-      <pubDate>Tue, 10 Aug 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/attached/</guid>
-      <description>Amir Levine, Rachel S F Heller    My rating: 4/5    Attached is a book on relationships, especially romantic relationships. It explains the evolutionary advantages to having a partner and how childhood experiences trigger different attachment styles.
-Broadly, the book proposes that there are three types of attachment styles: anxious, avoidant and secure. The former two roughly account for a quarter of the population each and the latter accounts for about half.</description>
-    </item>
-    
-    <item>
-      <title>The Art of Loving</title>
-      <link>https://keerthanapg.com/bookreviews/artofloving/</link>
-      <pubDate>Sat, 17 Jul 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/artofloving/</guid>
-      <description>Eric Fromm    Rating 1/5    This is a highly recommended book on relationships. The core tenet is that western individualism dictates that if you focus on being the best version of yourself, love will follow. However, this book argues that that is far from enough and one needs to be good at loving to find and keep love.
-While that advice is useful, I felt that the book was fraught with homophobia and transphobia having been written in the 1950s.</description>
-    </item>
-    
-    <item>
-      <title>Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>https://keerthanapg.com/bookreviews/workingbackwards/</link>
-      <pubDate>Sat, 10 Jul 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/workingbackwards/</guid>
-      <description>Colin Bryar, Bill Carr    My rating: 4/5    Working Backwards is a business book on the story and culture of Amazon. The first part deals with the culture of Amazon ranging from hiring, organization, in house communication and metrics of achievement. Amazon culture places a lot of stress on its 14 leadership principles.
- A quote that stuck with me was : every company has a culture, if you don&amp;rsquo;t actively create it, you&amp;rsquo;ll learn about it once it is made.</description>
-    </item>
-    
-    <item>
-      <title>On Palestine</title>
-      <link>https://keerthanapg.com/bookreviews/onpalestine/</link>
-      <pubDate>Thu, 10 Jun 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/onpalestine/</guid>
-      <description>Noam Chomsky, Ilan Pappé    My rating: 5/5    I picked up &amp;ldquo;On Palestine&amp;rdquo; at the height of the Israel Palestine conflict in May 2021. It is an interesting summarization of Zionism and the history of Israel and is very poignant and concisely organised. The first part deals with the past, present, future of the conflict and context from within Israel and its relationship with the United States.</description>
-    </item>
-    
-    <item>
-      <title>80,000 Hours: Find a fulfilling career that does good</title>
-      <link>https://keerthanapg.com/bookreviews/80000hours/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/80000hours/</guid>
-      <description>Benjamin Todd    Rating 3/5    If you&amp;rsquo;ve read Doing Good Better, you can totally skip this book. It expands into the research the 80000 hours organisation has done regarding careers and their impacts, so this book would be useful for young people looking to start a career or older folks looking to pivot/doing a reality check on their impact. Sometimes, the book reads like a curated webpage, which it totally is.</description>
-    </item>
-    
-    <item>
-      <title>Options Trading Crash Course: The #1 Beginner&#39;s Guide to Make Money With Trading Options in 7 Days or Less!</title>
-      <link>https://keerthanapg.com/bookreviews/optionstrading/</link>
-      <pubDate>Thu, 15 Apr 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/optionstrading/</guid>
-      <description>Frank Richmond    Rating 2/5    Skip and read investopedia. The last chapter on greeks and options strategies is actually useful though. The book, at times is very procedural.</description>
+      <guid>https://keerthanapg.com/random/lazy-sunday-morning/</guid>
+      <description>Lazy Sunday Morning Originally posted here
+June 22, 2013
+“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”
+They have been special to me, and yet again, I stumbled upon these lines, as I sat up overnight to finish off David Baldacci’s thriller First Family. To talk of the book, a good plot, but the literature was just, mediocre.</description>
     </item>
     
     <item>
@@ -160,21 +97,539 @@ A part of my day is spent playing with my pug puppy Kiwi, who is monstrosity and
     </item>
     
     <item>
-      <title>How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need</title>
-      <link>https://keerthanapg.com/bookreviews/billgates_climate/</link>
-      <pubDate>Sun, 21 Mar 2021 17:37:56 -0700</pubDate>
+      <title>Daybreak</title>
+      <link>https://keerthanapg.com/poetry/daybreak/</link>
+      <pubDate>Mon, 25 Jan 2021 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/bookreviews/billgates_climate/</guid>
-      <description>Bill Gates    My rating 5/5    This book was released around a month ago and is the most up to date compilation of issues and challenges surrounding climate change. What I love about this book is that it is markedly different in tone than what many climate activists advise - no angry rhetorics or morally high sounding stances. Crossing the Atlantic in a boat is not an option for everyone and asking the global population to give up on meat is simply non-practical.</description>
+      <guid>https://keerthanapg.com/poetry/daybreak/</guid>
+      <description>Originally Posted on Medium
+Tied up angel, wings battered
+Shackled by the ankles
+I lay rotting in the dirt
+Among worms and spiders
+Helpless and desolate
+Like a forgotten ghost in the ceiling
+But then I mustered my will,
+Chewed up the chains
+And through the broken attic window
+I climbed
+Cut my wings on the glass
+Yet jumped into the moonlight
+And took flight into an unknown
+With broken chains on my ankles</description>
     </item>
     
     <item>
-      <title>Cryptoassets: The Innovative Investor&#39;s Guide to Bitcoin and Beyond</title>
-      <link>https://keerthanapg.com/bookreviews/cryptoassets/</link>
-      <pubDate>Sun, 28 Feb 2021 17:37:56 -0700</pubDate>
+      <title>Much Ado About Nothing</title>
+      <link>https://keerthanapg.com/policy/much-ado-about-nothing/</link>
+      <pubDate>Thu, 19 Dec 2019 17:37:56 -0700</pubDate>
       
-      <guid>https://keerthanapg.com/bookreviews/cryptoassets/</guid>
-      <description>Chris Burniske    Rating 3/5    I picked up this book because there are way too many keywords thrown around about cryptocurrencies and blockchain and you never know what you don&amp;rsquo;t know. Far from a comprehensive guide to &amp;ldquo;bitcoin and beyond&amp;rdquo;, this book could be summarized as &amp;ldquo;Bitcoin is great. Yields are great. You gotta invest&amp;rdquo;. While the initial few chapters go into explaining the technology and history of blockchain (Satoshi&amp;rsquo;s white paper on bitcoin, Vitalik Buterin&amp;rsquo;s work, Ethereum blockchain reversion to create Ethereum Classic, proof of stake/work), many of the latter chapters are far too repetitive.</description>
+      <guid>https://keerthanapg.com/policy/much-ado-about-nothing/</guid>
+      <description>Much Ado about Nothing Originally posted here
+A closer inspection of the ‘Rally for Rivers’ fanfare
+Recently, Dr Rajendra Singh, who has spend decades working on community involvement in water management, winner of the Magsaysay Award and the Stockholm Water Prize, nicknamed the ‘Waterman of India’ called out the ‘Rally for Rivers’ movement. To quote, ‘this ‘Rally for Rivers’, is not for rivers. It is for the land, for money, for power, for fame and for name’ 1</description>
+    </item>
+    
+    <item>
+      <title>Never Had Been</title>
+      <link>https://keerthanapg.com/poetry/never-had-been/</link>
+      <pubDate>Sat, 30 Nov 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/never-had-been/</guid>
+      <description>Originally posted on Medium
+Pacing through a glass castle of mine
+That is shattered in all but a second
+At once when one is hit in the face by the chilling storm outside
+How can you be mine but yet never have been mine
+Feeling threatened in the most primal way
+I’m alone, irrevocably so, irreversibly so
+Even when engulfed in your arms
+Listening to your heart beats so close</description>
+    </item>
+    
+    <item>
+      <title>When to use machine/deep learning to solve a problem?</title>
+      <link>https://keerthanapg.com/tech/when-to-use-machine-learning/</link>
+      <pubDate>Sat, 25 May 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/when-to-use-machine-learning/</guid>
+      <description>When to use machine/deep learning to solve a problem? Originally posted here
+Sometimes it can save a lot of time to stop and think if ML/DL is indeed the right approach to solve your problem rather than realising that after throwing a ton of data at a network without getting anywhere and potentially being outperformed by a simple classical algorithm. Here’s where ML shines:
+ When the inputs are noisy When the solution cannot be described in human defined rules When the problem cannot be entirely defined and your solution needs to scale for diverse scenarios and edge cases When you can generate large amounts of data that is representative of your problem space When safety considerations allow redundancy for multiple methods to concur  Otherwise, don’t.</description>
+    </item>
+    
+    <item>
+      <title>Recipe: Hefezopf</title>
+      <link>https://keerthanapg.com/random/hefezopf/</link>
+      <pubDate>Mon, 20 May 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/hefezopf/</guid>
+      <description>Recipe: Hefezopf Originally posted here
+(This is a creative variant of a German Easter speciality known as Hefezopf)
+Ingredients:
+ Flour — 400 gms Yeast — 2 tbps Sugar — 1/2 cups Butter — 2 Tbps Water Baking soda — 1/2 tsp Jam — ~10 tsps Walnuts — 1/3 cups Chocolate — 1/3 cups Raisins — 1/3 cups  Mix the flour, yeast, sugar, butter, baking soda and water to create a smooth dough and let it rest for an hour.</description>
+    </item>
+    
+    <item>
+      <title>My Faceless Potrait</title>
+      <link>https://keerthanapg.com/poetry/my-faceless-potrait/</link>
+      <pubDate>Sat, 27 Apr 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/my-faceless-potrait/</guid>
+      <description>Originally posted on Medium
+I have
+I have a faceless portrait
+One I’ve been holding close
+For far too long
+Etched over years, touched over every now and then
+With each new dawn
+The lines grow clearer
+A faceless portrait hanging on a pedestal
+Across my hallway
+Waiting to come alive.
+Beaming with pride and
+Embellishing the sides
+I only need a face to completion.
+So I set out to find one</description>
+    </item>
+    
+    <item>
+      <title>In Search For You</title>
+      <link>https://keerthanapg.com/poetry/in-search-of-you/</link>
+      <pubDate>Mon, 18 Feb 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/in-search-of-you/</guid>
+      <description>Originally posted on Medium
+From Google Images
+I walked down the road
+Through alleys and corridors
+In search of you
+TRying to catch your eyes in the crowd
+Sliding past glass windows for a sign
+Of you
+Your voice still rings in my ears,
+As if playing with them constantly
+Much like your lively, restless spirit
+Your thoughts are fresh in my mind
+They emerge from me
+Become a hundred fireflies</description>
+    </item>
+    
+    <item>
+      <title>Shooting Stars</title>
+      <link>https://keerthanapg.com/poetry/shooting-stars/</link>
+      <pubDate>Sun, 03 Feb 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/shooting-stars/</guid>
+      <description>Originally posted on Medium
+If the moment is beautiful, is consistency necessary
+If the eyes align, why do the stars need to
+If happiness can precipitate in the now, who cares if the past and future are unmade
+If the timeline is a mist, so what, if today is stark clear in a happy, mad hue
+Can we count our sins after today, losing,
+Can we contradict our values, shackles of morals, just for once</description>
+    </item>
+    
+    <item>
+      <title>Recipe: Palpayasam</title>
+      <link>https://keerthanapg.com/random/palpayasam/</link>
+      <pubDate>Fri, 01 Feb 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/palpayasam/</guid>
+      <description>Recipe: Palpayasam Originally posted here
+This is a traditional Malayali desert.
+Expected time: 30 minutes
+Ingredients:  Milk: 750mL Water Sugar: 2 Tbsp Rice: 2.5 Tbsp Ghee: 0.75 Tbsp Cashew: 50 grams Cardamom: 1 tsp  Procedure:  Melt the ghee and saute the rice and cashew in it for 1.5 minutes on high flame. Pour the milk, add sugar and cardamom and cook on low flame until rice is well cooked.</description>
+    </item>
+    
+    <item>
+      <title>What to know before donating your hair?</title>
+      <link>https://keerthanapg.com/random/donating-hair/</link>
+      <pubDate>Thu, 22 Nov 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/donating-hair/</guid>
+      <description>What to know before donating your hair? Originally posted here
+This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.
+Before - After  What to note:</description>
+    </item>
+    
+    <item>
+      <title>Why the Sabarimala entry issue is personal? Thoughts from your run-of-the-mill Malayali woman</title>
+      <link>https://keerthanapg.com/policy/sabarimala-entry-issue/</link>
+      <pubDate>Thu, 04 Oct 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/policy/sabarimala-entry-issue/</guid>
+      <description>Why the Sabarimala entry issue is personal?: Thoughts from your run-of-the-mill Malayali woman Originally posted here
+.. and why this affects every Indian woman
+Source: 12  On September 28th, 2018, the Supreme Court of India ruled that women be granted entry at Sabarimala 6. Among other things one should note:
+ Can the temple do as they please? It is been found that Ayyappa devotees do not constitute a religious denomination and as such are not immune to outside interference 1.</description>
+    </item>
+    
+    <item>
+      <title>If Only</title>
+      <link>https://keerthanapg.com/poetry/if-only/</link>
+      <pubDate>Wed, 03 Oct 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/if-only/</guid>
+      <description>Originally posted on Medium
+Do I ever cross your mind?
+If only as a brief flutter
+Do I ever make you wind?
+Your words, if only a stutter
+Do you ever think about me?
+Just one thought, if only, in your day
+I wish it was my hands that you reached out for
+I wish it was my lips that felt your kiss
+I wish it was me that you woke up to</description>
+    </item>
+    
+    <item>
+      <title>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner</title>
+      <link>https://keerthanapg.com/tech/satient-vacuum-cleaner-copy/</link>
+      <pubDate>Thu, 20 Sep 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/satient-vacuum-cleaner-copy/</guid>
+      <description>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner Originally posted here
+Part 1: Household Reflections It is an ordinary day for me. Rob and Jenny have left for work and I stroll the living room in a pointless trance, accompanied by a droning whizz of my motors. There is not a lot to life if you’re a cleaning robot. Unlike my cousins at the manufacturing shop, I do not go to the moon, I do not explore far away adventurous mines and be a hero saving people.</description>
+    </item>
+    
+    <item>
+      <title>A Note Of Thanks</title>
+      <link>https://keerthanapg.com/policy/note-of-thanks/</link>
+      <pubDate>Sun, 09 Sep 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/policy/note-of-thanks/</guid>
+      <description>A note of thanks Originally posted here
+“How strongly must one love knowing that you are unconvicted felons in the eyes of the law” — Menaka Guruswamy to bench of judges at Supreme Court, July 11 2018, during the hearing of petitions against section 377.
+On 6th September 2018, the Supreme Court of the largest democracy of the world struck down section 377, a colonial-era law that decriminalises homosexuality. In a unanimous verdict, with passionately written judgements, the law of our land acknowledges the naturality of alternative sexuality and holds hope for further strides for Indian queer community, namely, marriage and civic equality.</description>
+    </item>
+    
+    <item>
+      <title>What did I learn/do differently this internship?</title>
+      <link>https://keerthanapg.com/tech/what-did-i-do-different-this-intern/</link>
+      <pubDate>Tue, 04 Sep 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/what-did-i-do-different-this-intern/</guid>
+      <description>What did I learn/do differently this internship? Originally posted here
+I spent the summer in the San Francisco Bay area, Sunnyvale to be precise. I was interning at Mercedes Benz R&amp;amp;D and had a significantly different(good different) internship experience!
+What did I do differently/What did I learn?
+ Turned on extrovert mode: An internship or experience can become incredibly more fun if one can relate to other people in the same endeavour.</description>
+    </item>
+    
+    <item>
+      <title>Recipe: Ginger-Cardamom Latte Tea</title>
+      <link>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</link>
+      <pubDate>Thu, 30 Aug 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</guid>
+      <description>Recipe: Ginger-Cardamom Latte Tea Originally posted here
+It’s healthy, tasty and complements well when you’re working on tough assignments :P
+Ingredients(makes 2 cups):
+ Water — 1 cup Milk — 1 cup Sugar — based on preference Tea leaves — 2 tsps( I use Red Label brand and the strength of the tea depends on the brand somewhat. Green tea is weak) Ginger — small chunk (approx 2cm _ 2cm _ 0.</description>
+    </item>
+    
+    <item>
+      <title>What are optimal ways to donate for Kerala Flood Relief and Rescue if you live abroad?</title>
+      <link>https://keerthanapg.com/policy/kerala-flood-relief/</link>
+      <pubDate>Sun, 19 Aug 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/policy/kerala-flood-relief/</guid>
+      <description>What are optimal ways to donate for Kerala Flood Relief and Rescue if you live abroad? Originally posted here
+Here we’ve made a list of options for those based in the US/outside India to contribute to relief in Kerala floods. Each of them have been verified with a US based card. Do share more in links in comments, if you’re aware and we’ll analyse/verify/update.
+1. The Chief Minister’s Distress Relief Fund website has recently added the functionality to accept international cards</description>
+    </item>
+    
+    <item>
+      <title>Draft of Death</title>
+      <link>https://keerthanapg.com/poetry/draft-of-death/</link>
+      <pubDate>Mon, 23 Jul 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/draft-of-death/</guid>
+      <description>Originally Posted on Medium
+A storm still raged in the midst of sea,
+Where I had murdered you,
+I lost you, far away
+Your bloodstains mixed in the steam
+Like a whirlpool of red
+But far out in the sea where no one could see
+Your face haunts me
+My hands feeling, forever slippery with your blood
+If I’ve slain, why are you still tied to me
+Like an albatross around my neck</description>
+    </item>
+    
+    <item>
+      <title>No</title>
+      <link>https://keerthanapg.com/poetry/no/</link>
+      <pubDate>Mon, 23 Jul 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/no/</guid>
+      <description>Originally posted on Medium
+No,
+I will not be the decked up doll,
+Meant to please
+Dumbed down by the appropriate amount
+Draped in a tone of sugar and niceness
+Intellect and insanity stuffed down to a small chest
+Thrown into a sea
+Sinking deep in its bellies
+While the silent waves leave no hint
+Of the tempest that rages within
+I refuse to be the calm waves that kiss your feet</description>
+    </item>
+    
+    <item>
+      <title>Breaking Free</title>
+      <link>https://keerthanapg.com/poetry/breaking-free/</link>
+      <pubDate>Fri, 04 May 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/breaking-free/</guid>
+      <description>Originally Posted on Medium
+A dream hung on like raindrops on power cables overhead
+A whole gleamy world in itself, a fairytale world
+Full of promises and enforced perfection, off a story book
+Walking on the tightrope of time,
+I emerged from the drop unscathed in the heart
+Or did the drop disappear altogether?
+I do not know. I do not remember.
+May be I was a fool that summoned the untrue</description>
+    </item>
+    
+    <item>
+      <title>A Song of Hatred</title>
+      <link>https://keerthanapg.com/poetry/a-song-of-hatred/</link>
+      <pubDate>Tue, 06 Feb 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/a-song-of-hatred/</guid>
+      <description>Originally posted here
+Photograph by Kevin Frayer 1
+The photographer Kevin Frayer explains the scene: “I arrived to Cox’s Bazar, Bangladesh, in mid-September, a few weeks into the #Rohingya crisis. I was looking for places to photograph food aid because there was such a need for it and so little of it around. I was in an area where there was a crowd of people surrounding a truck. The scene was quite chaotic; people were shouting and reaching because they were obviously distraught and hungry.</description>
+    </item>
+    
+    <item>
+      <title>Old and Young</title>
+      <link>https://keerthanapg.com/poetry/old-and-young/</link>
+      <pubDate>Sun, 04 Feb 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/old-and-young/</guid>
+      <description>Originally posted on Medium
+Hopping over puddles, in a little pink frock
+Hardly as tall as your knee cap,
+Grasping tightly your index, with an entire little pink palm
+Running to catch up with you,
+Even as you lift and place me
+Across small pools of water on the road
+Over time your pace slowed and mine picked up
+That you slowly heave to match my pace
+Making me wonder when I outstripped you.</description>
+    </item>
+    
+    <item>
+      <title>Recipe: BlueBerry Pancakes</title>
+      <link>https://keerthanapg.com/random/blueberry-pancakes/</link>
+      <pubDate>Thu, 18 Jan 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/blueberry-pancakes/</guid>
+      <description>Recipe: Blueberry Pancakes Originally posted here
+Preparation time: 10 minutes
+Ingredients:
+ Blueberries(fresh/dried):150g Pancake mix: 2/3 cup Water: 1/2 cup Sugar/sugar syrup: 1.5tsp/1.5 tbsp Butter: 1 tsp (optional) Cream cheese: 0.5 tsp (optional)  Procedure:
+ Mash the blueberries such that there still are small lumps. Add the flour, water and sugar and mix thoroughly to remove flour lumps. Regulate water to alter consistency. Stop when it looks like dosa batter.</description>
+    </item>
+    
+    <item>
+      <title>Rains, Thieves and Broken Dreams</title>
+      <link>https://keerthanapg.com/random/rain-thieves-broken-dreams/</link>
+      <pubDate>Mon, 15 Jan 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/rain-thieves-broken-dreams/</guid>
+      <description>Rains, Thieves and Broken Dreams Originally posted here
+Sourced from Google Images  Unlike most of India that receives rains once, Kerala has two rounds of monsoons. The first of the season arrives in June when the advancing monsoons make bountiful our harvest and rake up our GDP numbers. The brief spell of unperturbed sunlight is broken by the retreating monsoons, popularly called ‘Thulavarsham’ for they occur in the month of October/’Thula’, taking their leave from the country having toured thoroughly.</description>
+    </item>
+    
+    <item>
+      <title>Recipe: Easy Baked Chicken</title>
+      <link>https://keerthanapg.com/random/easy-baked-chicken/</link>
+      <pubDate>Sun, 14 Jan 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/easy-baked-chicken/</guid>
+      <description>Recipe: Easy Baked Chicken Originally posted here
+Preparation time- 35 minutes
+What you need:
+ Tender chicken breasts — 0.5 pounds Olive oil — 2 table spoons Ginger garlic paste — 1 table spoon Pepper finely ground — 1 teaspoon Chilly powder — 0.25 teaspoon Garam masala — a pinch Turmeric powder— a pinch Lemon — a small slice Salt — as required  How to:
+ Mix the powders and ginger-garlic to a paste.</description>
+    </item>
+    
+    <item>
+      <title>The Wall of Deceit</title>
+      <link>https://keerthanapg.com/poetry/the-wall-of-deceit/</link>
+      <pubDate>Thu, 04 Jan 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/the-wall-of-deceit/</guid>
+      <description>Originally posted on Medium
+Normal waves
+Dampened by the sinking weights
+of hurt over years
+Unflinching today
+Unmoved
+Blanks eyes, and quizzical brows
+Witness doubtful cries
+Numb is the word
+To what I feel
+A game of rock, paper, scissors
+Defeated are those who show their guts
+Feeling small
+Laying it out there
+Bare, to be trampled on
+To be a display
+On the sidewalks of an uncaring passerby
+Screams fall on deaf ears</description>
+    </item>
+    
+    <item>
+      <title>Why’d you prevail?</title>
+      <link>https://keerthanapg.com/poetry/why-you-prevail/</link>
+      <pubDate>Thu, 04 Jan 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/why-you-prevail/</guid>
+      <description>Originally posted on Medium
+The contours of your face
+Imprinted in my memories
+Your face, that I’ve worshiped
+Years went by
+The wheel of time and with it the pages of history piled
+But why,
+Why don’t they erase your face from my heart
+Why don’t they dirty it
+Tear your pristine portraits
+Why do you prevail
+Like the bizarre sorrow of a cold night
+Like the forgotten whisper in the whirling wind</description>
+    </item>
+    
+    <item>
+      <title>The Case against Simultaneous Elections in India</title>
+      <link>https://keerthanapg.com/policy/case-against-simultaneous-elections/</link>
+      <pubDate>Fri, 22 Dec 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/policy/case-against-simultaneous-elections/</guid>
+      <description>The Case against Simultaneous Elections in India Originally posted here
+During his address on National Law Day 2017, PM Narendra Modi reiterated the push for implementing simultaneous elections in India, where Lok Sabha elections and Assembly polls of all states will be synced to happen once in 5 years, citing administrative difficulties and cost to exchequer. In the later half of this year, there has been much discussion about it, with Nitish Kumar 2, the Vice President 3, the controversial India Foundation 4 and other allies in support and regional parties and the left voicing their protest 5.</description>
+    </item>
+    
+    <item>
+      <title>Moods of Weather</title>
+      <link>https://keerthanapg.com/poetry/moods-of-weather/</link>
+      <pubDate>Tue, 14 Nov 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/moods-of-weather/</guid>
+      <description>Originally posted on Medium
+Shedding leaves and pretenses
+Dropping off, pieces of one’s soul
+Carried in the wind,
+Passing on the living will
+Leaving bare bones, branches behind
+Shrinking in, staring within
+Introverted shrugging to oneself
+Quiet, unhindered
+Preparing to be hit
+By the the chill of loneliness
+A lazy winter and creeping cold
+Like cancer on your determination
+Spreading eerily, binding you
+Estranged frosty bite of a distilled purpose</description>
+    </item>
+    
+    <item>
+      <title>Speaking Out On Sexual Harassment</title>
+      <link>https://keerthanapg.com/policy/speaking-out-on-sexual-harassment/much-ado-about-nothing/</link>
+      <pubDate>Mon, 23 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/policy/speaking-out-on-sexual-harassment/much-ado-about-nothing/</guid>
+      <description>Speaking out on Sexual Harassment Originally posted here
+#metoo.
+When it has happened to Elizabeth Warren, why should you be reluctant to disclose.
+Several times. Waking up to find a grown man sleeping next to me on the same berth, tangled in his lungi as a 10 year old on pilgrimage with parents. Or being grabbed by a frail shriveled old man in a crowded street as I visited town for the first time without parents at 13; wondering why my pee-pee area would be of interest to anyone.</description>
+    </item>
+    
+    <item>
+      <title>Bag of Thoughts</title>
+      <link>https://keerthanapg.com/poetry/bag-of-thoughts/</link>
+      <pubDate>Sun, 22 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/bag-of-thoughts/</guid>
+      <description>Originally Posted on Medium
+A bag of thoughts we are
+a tiny little star
+sweltering pot
+a burning core at its heart
+likes and dislikes
+ambitions and idiosyncracies
+philosophies, glued together
+in a weak concoction of will
+A sphere of influence around
+we hold close ones
+As we journey through space,
+carrying our identities
+our baggage
+in a journey called life
+People come by, simering plasma like us,
+held together by their will</description>
+    </item>
+    
+    <item>
+      <title>Keeeeeeeee :)</title>
+      <link>https://keerthanapg.com/random/keeeeeee/</link>
+      <pubDate>Sun, 22 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/keeeeeee/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Recipe: Quick and Easy Pasta</title>
+      <link>https://keerthanapg.com/random/quick-easy-pasta/</link>
+      <pubDate>Mon, 16 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/quick-easy-pasta/</guid>
+      <description>Originally posted here
+Sharing successful tidbits from my reluctant adventures as a student cook. :)
+Ingredients:
+ Pasta — 1 cup Salsa sauce — 3 table spoons Cut up veggies — 3/5 cup Soy sauce — 1 tsp Garlic powder/paste — 1/2 tsp Ginger powder/paste — 1/4 tsp Chilli powder — 3/4 tsp Parmesan Cheese grated — 1/4 cup Mayonnaise — 1.5 tsp Pepper grated — 1 tsp Butter/ghee — 1 tsp Vegetable oil — 1 tsp Tomato sauce — 1 table spoon Salt — 1 tsp Turmeric powder — a pinch  Steps:</description>
+    </item>
+    
+    <item>
+      <title>Voices of a Forgotten Dream</title>
+      <link>https://keerthanapg.com/poetry/voices-of-forgetten-dream/</link>
+      <pubDate>Fri, 06 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/voices-of-forgetten-dream/</guid>
+      <description>Originally posted on Medium
+Third somebody in the room
+Like an impenetrable wall
+Between us.
+The mind knits careful words
+yearns for a soft feel of the cheeks
+pinches in anticipation of the kiss.
+Unsaid, undone.
+Cheesy sugary eternals
+Aborted, replaced with blank expressions
+All the love means nothing
+With a strange face in the room
+Not intimate, never alone..
+Not two, always three.
+Cackling laughter that fills the room</description>
+    </item>
+    
+    <item>
+      <title>An Eventful Dream</title>
+      <link>https://keerthanapg.com/random/eventful-dream/</link>
+      <pubDate>Sun, 17 Sep 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/eventful-dream/</guid>
+      <description>An eventful dream Originally posted here
+This is an account of a dream I had today:
+It was set in the years of the freedom movement in India and World War 2. Agricultural production had failed due to drought, war, plunder and loot by the imperialists to aid war supplies. My grandmother and I, two patriots on the run, lived in a small and claustrophobic mud-walled shack with a tiny door and window, in the basement of a busy school building.</description>
     </item>
     
   </channel>

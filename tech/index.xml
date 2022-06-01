@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on keerthanapg</title>
+    <link>https://keerthanapg.com/tech/</link>
+    <description>Recent content in Tech on keerthanapg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Mar 2022 17:37:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://keerthanapg.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reward is Not Not Enough: AGI and Reward Maximization</title>
+      <link>https://keerthanapg.com/tech/reward-is-not-not-enough/</link>
+      <pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
+      <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
+    </item>
+    
+    <item>
+      <title>When to use machine/deep learning to solve a problem?</title>
+      <link>https://keerthanapg.com/tech/when-to-use-machine-learning/</link>
+      <pubDate>Sat, 25 May 2019 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/when-to-use-machine-learning/</guid>
+      <description>When to use machine/deep learning to solve a problem? Originally posted here
+Sometimes it can save a lot of time to stop and think if ML/DL is indeed the right approach to solve your problem rather than realising that after throwing a ton of data at a network without getting anywhere and potentially being outperformed by a simple classical algorithm. Here’s where ML shines:
+ When the inputs are noisy When the solution cannot be described in human defined rules When the problem cannot be entirely defined and your solution needs to scale for diverse scenarios and edge cases When you can generate large amounts of data that is representative of your problem space When safety considerations allow redundancy for multiple methods to concur  Otherwise, don’t.</description>
+    </item>
+    
+    <item>
+      <title>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner</title>
+      <link>https://keerthanapg.com/tech/satient-vacuum-cleaner-copy/</link>
+      <pubDate>Thu, 20 Sep 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/satient-vacuum-cleaner-copy/</guid>
+      <description>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner Originally posted here
+Part 1: Household Reflections It is an ordinary day for me. Rob and Jenny have left for work and I stroll the living room in a pointless trance, accompanied by a droning whizz of my motors. There is not a lot to life if you’re a cleaning robot. Unlike my cousins at the manufacturing shop, I do not go to the moon, I do not explore far away adventurous mines and be a hero saving people.</description>
+    </item>
+    
+    <item>
+      <title>What did I learn/do differently this internship?</title>
+      <link>https://keerthanapg.com/tech/what-did-i-do-different-this-intern/</link>
+      <pubDate>Tue, 04 Sep 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/what-did-i-do-different-this-intern/</guid>
+      <description>What did I learn/do differently this internship? Originally posted here
+I spent the summer in the San Francisco Bay area, Sunnyvale to be precise. I was interning at Mercedes Benz R&amp;amp;D and had a significantly different(good different) internship experience!
+What did I do differently/What did I learn?
+ Turned on extrovert mode: An internship or experience can become incredibly more fun if one can relate to other people in the same endeavour.</description>
+    </item>
+    
+  </channel>
+</rss>
