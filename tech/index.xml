@@ -6,10 +6,19 @@
     <description>Recent content in Tech on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Mar 2022 17:37:56 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://keerthanapg.com/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Embodiment is Indispensable for AGI</title>
+      <link>https://keerthanapg.com/tech/embodiment-agi/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/embodiment-agi/</guid>
+      <description>There are many paths on the road to AGI. Nando de Freitas recently wrote that “Scale is all you need” following the release of Deepmind’s Gato paper. Larger and larger transformers, with language interfaces doing supervised learning on large datasets is one such touted path. While Gato trains and evaluates on data from physical robots, there is a larger paradigm on getting to AGI that fully bypasses embodiment or robotics. This is the path pursued by OpenAI/Anthropic, who once famously disbanded their robotics team.</description>
+    </item>
     
     <item>
       <title>Reward is Not Not Enough: AGI and Reward Maximization</title>

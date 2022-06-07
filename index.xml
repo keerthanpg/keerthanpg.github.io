@@ -12,16 +12,12 @@
     
     
     <item>
-      <title>Recipe: Horse gram, Kale and Sprouts salad with Rice</title>
-      <link>https://keerthanapg.com/random/quarantine-meals/</link>
-      <pubDate>Mon, 21 Mar 2022 17:37:56 -0700</pubDate>
+      <title>Embodiment is Indispensable for AGI</title>
+      <link>https://keerthanapg.com/tech/embodiment-agi/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
       
-      <guid>https://keerthanapg.com/random/quarantine-meals/</guid>
-      <description>Served with a side of boiled rice.
-Horse Gram Stir Fried: Originally Written here
-Ingredients:
- Horse gram — 1 cup Salt — 1 tbsp Water — 2 cups Green chillies — 4 Red chilli powder — 0.5 tbsp Olive oil — 2 Tbsp Garlic — 3 cloves Curry leaves — optional  Preparation:
- Boil the horse gram with water and salt in a closed container / pressure cooker until cooked.</description>
+      <guid>https://keerthanapg.com/tech/embodiment-agi/</guid>
+      <description>There are many paths on the road to AGI. Nando de Freitas recently wrote that “Scale is all you need” following the release of Deepmind’s Gato paper. Larger and larger transformers, with language interfaces doing supervised learning on large datasets is one such touted path. While Gato trains and evaluates on data from physical robots, there is a larger paradigm on getting to AGI that fully bypasses embodiment or robotics. This is the path pursued by OpenAI/Anthropic, who once famously disbanded their robotics team.</description>
     </item>
     
     <item>
@@ -31,15 +27,6 @@ Ingredients:
       
       <guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
       <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
-    </item>
-    
-    <item>
-      <title>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</title>
-      <link>https://keerthanapg.com/bookreviews/hard_thing/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/bookreviews/hard_thing/</guid>
-      <description>Ben Horowitz My rating: 4.23/5 This is a wonderful book! It gives an insider&amp;rsquo;s view of how it feels to run a startup and decide between conflicting options. It makes even more sense if you&amp;rsquo;ve already run a startup to be able to understand the nuances and the significance of these choices and their context. From hiring for greatness than lack of weakness, networking to spot the PR managers that can turn chicken shit to chicken salad, from management debt to managing profanity in company culture, this book explores a number of pain points.</description>
     </item>
     
     <item>
@@ -275,6 +262,19 @@ With broken chains on my ankles</description>
       
       <guid>https://keerthanapg.com/bookreviews/bullshit_jobs/</guid>
       <description>David Graeber My rating: 4.02/5 David Graeber wrote this book after his very famous essay by the same name. It draws on several anecdotes and responses he received after writing the essay. However, a peculiar thing to note is that despite being an anthropologist from Oxford, this is not based on original research but one could note that some research is cited to support the assertions made in the book. The first few chapters are very useful in understanding the time of useless jobs that can exist in the industry, especially private industry, how to identify one, hidden unemployment ( several parties doing the work of one person), etc.</description>
+    </item>
+    
+    <item>
+      <title>Recipe: Horse gram, Kale and Sprouts salad with Rice</title>
+      <link>https://keerthanapg.com/random/quarantine-meals/</link>
+      <pubDate>Sat, 21 Mar 2020 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/quarantine-meals/</guid>
+      <description>Served with a side of boiled rice.
+Horse Gram Stir Fried: Originally Written here
+Ingredients:
+ Horse gram — 1 cup Salt — 1 tbsp Water — 2 cups Green chillies — 4 Red chilli powder — 0.5 tbsp Olive oil — 2 Tbsp Garlic — 3 cloves Curry leaves — optional  Preparation:
+ Boil the horse gram with water and salt in a closed container / pressure cooker until cooked.</description>
     </item>
     
     <item>
@@ -869,6 +869,15 @@ It was set in the years of the freedom movement in India and World War 2. Agricu
       
       <guid>https://keerthanapg.com/bookreviews/loves_executioner/</guid>
       <description>Irvin D. Yalom My rating: 4.24/5 This book is an account of Yalom&amp;rsquo;s selected cases as a psychoanalyst. It&amp;rsquo;ll impart confidence to your own analysis of human nature and behaviours, and offer to enrich them with the practices and wisdom of an academic insider. What I found most surprising was dream interpretation. While I&amp;rsquo;ve always found dreams as abstract representations of everyday randomness, it was astonishing to realise that dreams are a clinically established means to investigate what troubles the mind.</description>
+    </item>
+    
+    <item>
+      <title>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</title>
+      <link>https://keerthanapg.com/bookreviews/hard_thing/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://keerthanapg.com/bookreviews/hard_thing/</guid>
+      <description>Ben Horowitz My rating: 4.23/5 This is a wonderful book! It gives an insider&amp;rsquo;s view of how it feels to run a startup and decide between conflicting options. It makes even more sense if you&amp;rsquo;ve already run a startup to be able to understand the nuances and the significance of these choices and their context. From hiring for greatness than lack of weakness, networking to spot the PR managers that can turn chicken shit to chicken salad, from management debt to managing profanity in company culture, this book explores a number of pain points.</description>
     </item>
     
     <item>
