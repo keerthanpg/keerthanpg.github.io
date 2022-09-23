@@ -6,10 +6,20 @@
     <description>Recent content in Tech on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://keerthanapg.com/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner</title>
+      <link>https://keerthanapg.com/tech/vacuum-cleaner-2/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/vacuum-cleaner-2/</guid>
+      <description>Chapter 2: Flutterings of a Mechanical Heart Read Chapter 1: Household Reflections
+The San Francisco Bay Area is a melting pot for machines like me. Our owners are like restless children, easily enchanted by technology, devices and their upgrades. Rob prides himself on being an early adopter and gets the new iPhone the day it releases to show off to his discord buddies. Jenny is a software engineer and quite a savvy one at it.</description>
+    </item>
     
     <item>
       <title>Embodiment is Indispensable for AGI</title>

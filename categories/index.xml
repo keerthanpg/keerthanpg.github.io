@@ -6,10 +6,28 @@
     <description>Recent content in Categories on keerthanapg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Jul 2022 17:37:56 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:01 +0000</lastBuildDate>
     
 	<atom:link href="https://keerthanapg.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Random</title>
+      <link>https://keerthanapg.com/categories/random/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://keerthanapg.com/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>https://keerthanapg.com/categories/policy/</link>
+      <pubDate>Mon, 11 Jul 2022 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/categories/policy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cooking</title>
@@ -21,29 +39,11 @@
     </item>
     
     <item>
-      <title>Random</title>
-      <link>https://keerthanapg.com/categories/random/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Poem</title>
       <link>https://keerthanapg.com/categories/poem/</link>
       <pubDate>Fri, 03 Jun 2022 17:37:56 -0700</pubDate>
       
       <guid>https://keerthanapg.com/categories/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy</title>
-      <link>https://keerthanapg.com/categories/policy/</link>
-      <pubDate>Thu, 19 Dec 2019 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/policy/</guid>
       <description></description>
     </item>
     
