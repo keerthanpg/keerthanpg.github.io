@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random on keerthanapg</title>
+    <link>https://keerthanapg.com/categories/random/</link>
+    <description>Recent content in Random on keerthanapg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://keerthanapg.com/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embodiment is Indispensable for AGI</title>
+      <link>https://keerthanapg.com/tech/embodiment-agi/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/embodiment-agi/</guid>
+      <description>There are many paths on the road to AGI. Nando de Freitas recently wrote that “Scale is all you need” following the release of Deepmind’s Gato paper. Larger and larger transformers, with language interfaces doing supervised learning on large datasets is one such touted path. While Gato trains and evaluates on data from physical robots, there is a larger paradigm on getting to AGI that fully bypasses embodiment or robotics. This is the path pursued by OpenAI/Anthropic, who once famously disbanded their robotics team.</description>
+    </item>
+    
+    <item>
+      <title>Reward is Not Not Enough: AGI and Reward Maximization</title>
+      <link>https://keerthanapg.com/tech/reward-is-not-not-enough/</link>
+      <pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
+      <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
+    </item>
+    
+    <item>
+      <title>Lazy Sunday Morning</title>
+      <link>https://keerthanapg.com/random/lazy-sunday-morning/</link>
+      <pubDate>Mon, 22 Mar 2021 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/lazy-sunday-morning/</guid>
+      <description>Originally Written here
+June 22, 2013
+“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”
+They have been special to me, and yet again, I stumbled upon these lines, as I sat up overnight to finish off David Baldacci’s thriller First Family. To talk of the book, a good plot, but the literature was just, mediocre. It seems like a tactic now, for writers to pull across a best-seller, by starring the President of the States in their plots, and most necessarily the NSA and FBI, and how it is of paramount importance to the lives of millions in America.</description>
+    </item>
+    
+    <item>
+      <title>What to know before donating your hair?</title>
+      <link>https://keerthanapg.com/random/donating-hair/</link>
+      <pubDate>Thu, 22 Nov 2018 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/donating-hair/</guid>
+      <description>Originally Written here
+This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.
+Before - After  What to note:
+ Talk to others before you do it and be very sure you want to donate.</description>
+    </item>
+    
+    <item>
+      <title>Keeeeeeeee :)</title>
+      <link>https://keerthanapg.com/random/keeeeeee/</link>
+      <pubDate>Sun, 22 Oct 2017 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/random/keeeeeee/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
