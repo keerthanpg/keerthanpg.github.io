@@ -125,7 +125,7 @@ As dust settled on its glossy green leaves</description>
       <pubDate>Wed, 13 Oct 2021 17:37:56 -0700</pubDate>
       
       <guid>https://keerthanapg.com/projects/</guid>
-      <description>SayCan: Grounding Language in Robotic Affordances  Using large language models for planning in robotics Demos, Paper - Best paper at RSS 2022 Scaling Robot Learning Workshop  Self Driving Data Visualization  Data visualization for status quo on the race to build the self driving car. Demos - 2020, 2019 Code  RL bots on StarCraft 2  Built RL bots to play StarCraft 2 by adapting A3C algorithm and training in Deepmind-Blizzard StarCraft 2 environment Video demos, Paper  Multimodal emotion detection  Built a multimodal emotion recognition system with team of 3 in collaboration with Emotech AI.</description>
+      <description>SayCan: Grounding Language in Robotic Affordances  Using large language models for planning in robotics Demos, Paper - Best paper at RSS 2022 Scaling Robot Learning Workshop, Oral at CoRL 2022  Self Driving Data Visualization  Data visualization for status quo on the race to build the self driving car. Demos - 2020, 2019 Code  RL bots on StarCraft 2  Built RL bots to play StarCraft 2 by adapting A3C algorithm and training in Deepmind-Blizzard StarCraft 2 environment Video demos, Paper  Multimodal emotion detection  Built a multimodal emotion recognition system with team of 3 in collaboration with Emotech AI.</description>
     </item>
     
     <item>
@@ -254,8 +254,8 @@ They have been special to me, and yet again, I stumbled upon these lines, as I s
       
       <guid>https://keerthanapg.com/about/</guid>
       <description>Hi
-I am Keerthana! I am a roboticist at Google Brain: by day I convert coffee into code for training robots to do everyday tasks. I can talk endlessly about artificial intelligence and self-driving. I am also passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality.
-A part of my day is spent playing with my pug puppy Kiwi, who is monstrosity and innocence rolled into one.</description>
+I am Keerthana! I am a roboticist at Google Brain: I spend a lot of my time thinking about how to get robots to do everyday tasks with end to end machine learning. I am passionate about building human-level self-improving intelligence in bits and atoms.
+If you don&amp;rsquo;t shut me up, I will talk endlessly about robotics, artificial intelligence and self-driving. Currently much of my free time is spent authoring a textbook on Machine Learning for Robotics with OReilly Media.</description>
     </item>
     
     <item>
