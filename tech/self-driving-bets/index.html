@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+    
+    
+
+    <meta name="author" content="Keerthana Gopalakrishnan">
+    <meta name="description" content="Opinions presented in this article are that of the author alone and does not represent those of her employer.
+As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week Waymo and Cruise announced they are scaling to 3&#43; cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin.">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://keerthanapg.com/tech/self-driving-bets/source.gif"/>
+
+<meta name="twitter:title" content="The Bets and Business of Self Driving"/>
+<meta name="twitter:description" content="Opinions presented in this article are that of the author alone and does not represent those of her employer.
+As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week Waymo and Cruise announced they are scaling to 3&#43; cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin."/>
+
+    <meta property="og:title" content="The Bets and Business of Self Driving" />
+<meta property="og:description" content="Opinions presented in this article are that of the author alone and does not represent those of her employer.
+As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week Waymo and Cruise announced they are scaling to 3&#43; cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://keerthanapg.com/tech/self-driving-bets/" />
+<meta property="og:image" content="https://keerthanapg.com/tech/self-driving-bets/source.gif" />
+<meta property="article:published_time" content="2023-01-02T00:00:01+00:00" />
+<meta property="article:modified_time" content="2023-01-02T00:00:01+00:00" />
+
+
+    <title>
+  The Bets and Business of Self Driving · keerthanapg
+</title>
+
+    
+      <link rel="canonical" href="https://keerthanapg.com/tech/self-driving-bets/">
+    
+
+    
+    
+    <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" integrity="sha256-hEIt6X6xzye8ubyk8/uxjz68cRZHsJxoKS9fQ8idUGQ=" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.ec198d25949ddd79a670b1ead43ca88e0bc2c1343266d0df0a9eeb7f3f207777.css" integrity="sha256-7BmNJZSd3XmmcLHq1DyojgvCwTQyZtDfCp7rfz8gd3c=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.66.0" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      keerthanapg
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/poetry/">Poetry</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/policy/">Policy</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/random/">Random</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/tech/">Tech</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/bookreviews/">Book Reviews</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://500px.com/p/keerthanpg?view=photos">Photography</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="https://keerthanapg.com/tech/self-driving-bets/">
+          The Bets and Business of Self Driving
+        </a>
+      </h1>
+    </header>
+
+    <p><em>Opinions presented in this article are that of the author alone and does not represent those of her employer.</em></p>
+<p>As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week <a href="https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html">Waymo</a> and <a href="https://twitter.com/kvogt/status/1605234916043939840">Cruise</a> announced they are scaling to 3+ cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin. Rides are now available to the public for charge and I myself <a href="https://twitter.com/keerthanpg/status/1591355457616379905">took a driverless ride in a Cruise</a> despite not working for the company.</p>
+<!-- raw HTML omitted -->
+
+
+<div style="height: 100%; width: 80%; float: center; padding-left: 15rem; text-align: center;">
+    <img src="./source.gif" />   
+    <a href="https://in.pinterest.com/pin/428827195751087037/">Source</a>
+</div>
+
+
+<h3 id="building-l5-autonomy-vs-improving-driver-assistance">Building L5 autonomy vs improving driver assistance</h3>
+<p>This rapid expansion is a point in favor of betting to build L5 autonomy directly rather than continuously improving an L3 system. Comma and Tesla who have taken the latter approach, are nowhere near close to removing the driver today and tend to look more like driver assistance systems than “full self driving”, at least as of today.</p>
+<h3 id="lidar-vs-vision-only">Lidar vs vision only</h3>
+<p>It is too soon to conclude if lidar is absolutely required for l5 autonomy or if vision only approaches can still get there. A major consideration for not using lidar was cost of the device and viability of large scale data farming. Having a vision only stack allows one to keep the cost of the car cheap, as well as sell it to a wider base of customers and use that data to train self driving systems. Compared to the last decade when these bets were placed, lidar costs have fallen faster than anyone anticipated, so much that even the latest iphones 13 and 14 have one, allowing for sleek 3d imaging and low light photography. Compared to an iphone, a self driving car operates in a domain of higher velocities and very low lighting and requires a high bar of safety on account of transporting humans. In retrospect lidar may have been the right bet and this may be the bitter lesson of self driving.</p>
+
+
+<div style="height: 100%; width: 80%; float: center; padding-left: 15rem; text-align: center;">
+    <img src="./lidar.png" />   
+    <a href="https://www.avvir.io/blog-posts/the-ipad-pro-an-inflection-point-for-reality-capture">Source</a>
+</div>
+
+
+<h3 id="robotaxis-vs-personal-cars-business-models">Robotaxis vs personal cars business models</h3>
+<p>While the tech starting to scale, the business of making money with robotaxis is still an open question. The unit economics of HD maps + sensor suite is yet to be worked out even as price of sensors and R&amp;D costs goes down as economics of scale starts to manifest. If a cruise car takes <a href="https://www.businessinsider.com/google-self-driving-car-sensor-cost-2012-9">$300k</a> to build today, it has to execute a lot of taxi rides to end up cash flow positive. But robotaxi companies have a much higher profit potential than traditional taxi companies like Uber/Lyft. The costliest part of a traditional taxi is the human driver. For every dollar paid for an Uber ride, <a href="https://www.stilt.com/blog/2020/02/how-much-does-uber-pay/">75 cents goes to the driver</a>. Despite this cut, the average driver barely makes above the minimum wage.</p>
+<p>Compared to robotaxis that are still figuring out their business model, comma and tesla are already profitable / cash flow positive with comma 3 going at <a href="https://comma.ai/shop">$2k</a> and tesla “full” self-driving at <a href="https://electrek.co/2022/12/29/tesla-people-bought-full-self-driving-north-america/">15000$</a> for partial autonomy.</p>
+<h3 id="remote-teleop-vs-driver-at-wheel">Remote teleop vs driver at wheel</h3>
+<p>Deploying robotics in the wild is possible today only with tactical human intervention. While machine learning handles more than 99% of cases, at 10 hz inference that is a mistake every 10 seconds. For Tesla/Comma, intervention is provided by the human at the wheel, for Cruise/Waymo it is teleoperated.</p>
+<p>Remote teleoperated fleets pair well with a service business such as robotaxis. For personal cars, it’s hard to serve remote interventions because unlike robotaxis, personal cars cannot geofence their area of operation and ensure low latency network connectivity with a remote human at all times. Due to this, personal car business models of self driving trends towards driver assistance systems because the domain of operation of a personal car is far wider to fully solve for autonomously.</p>
+<p>The wider operational domain of personal cars have some advantages. For example, a comma / tesla could get you a minimum intervention road trip between say San Francisco to San Diego, while Cruise/Waymo may be better for rides within the city.</p>
+<h3 id="capital-and-consolidation">Capital and consolidation</h3>
+<p>2020 showed a consolidation in the industry with smaller players being bought out by bigger ones in lieu of the pandemic induced funding crunch, and the realization that self driving is way more capital intensive to build than anyone expected. Since the pandemic, Cruise bought Voyage, Lyft sold Level 5 to Toyota, Aurora bought Uber ATG, Amazon bought Zoox, Apple bought Drive AI, Daimler bought Torc robotics. Despite this consolidation, the bear market of 2022 and the anticipated recession continues to pose a threat to this industry. Only recently Argo AI folded back into parent Ford’s L3 driver assistance development even as onlookers thought they were too big to fail.</p>
+<h3 id="changing-landscape">Changing landscape</h3>
+<p>Two sister industries of self driving are mapping and labeling. Due to the large scale consolidation since the pandemic, both of these industries also underwent some consolidation since buyers congregated.</p>
+<p>Compared to mapping, labeling has a wider customer base due to its appeal to the larger ML industry. The advent of weekly supervised learning for scaled ML starting with CLIP/ GPTs has dealt a blow to traditional labeling companies like Scale AI. Most big ML companies have started their own labeling efforts and additionally <a href="https://cloud.google.com/ai-platform/data-labeling/docs">cloud providers</a> now offer labeling as a service.</p>
+<p>The speed and precision of HD maps required to drive L5 systems is another concern towards the scalability of fully driverless systems. Despite years of testing, Waymo’s footprint in <a href="https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html">Phoenix</a> continues to be small. However, recent scaling annoucements indicate that it may be possible to go from 0-100 in a new city in O(1-2 years). A slower speed of scaling may be fine for the time being: until recently Uber made a <a href="https://slate.com/business/2019/04/uber-ipo-nyc-london-risks.html">quarter of its revenue</a> from just 5 cities, which is business to the order of tens of billions of dollars.</p>
+<p>In conclusion, the last few years have given a lot of evidence for what works and what doesn’t work in self driving, both from a technology and from a business perspective. Riding in a driverless car in the winter of 2022 in SF was a magical experience, like I was sitting in the future. I am looking forward to developments in the upcoming year! :)</p>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'keerthanapg';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>If you're so smart, why are you unhappy?</p>
+      
+      
+        ©
+        
+          2019 -
+        
+        2023
+         Keerthana Gopalakrishnan 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+        
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+        
+        <script src="/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js" integrity="sha256-AhPhdz5tHFpkT4R8Z6b4q6xJo3duKXb2AIA4r4xbdqE="></script>
+      
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SR65R0C5W7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SR65R0C5W7');
+</script>
+
+  </body>
+
+</html>
