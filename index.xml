@@ -12,6 +12,23 @@
     
     
     <item>
+      <title>The Truth</title>
+      <link>https://keerthanapg.com/poetry/truth/</link>
+      <pubDate>Fri, 21 Apr 2023 17:37:56 -0700</pubDate>
+      
+      <guid>https://keerthanapg.com/poetry/truth/</guid>
+      <description>The truth is absolute and immutable.
+The beauty of physics and our world is that
+The truth is traveling at the speed of the light cone,
+Sights and scenes of exactly what happened and was said
+Scattering from one end of the universe to the other
+Never to be muted
+Perennially out there to be seen for those that want to see
+The truth remains true
+Regardless of whether one hundred or one million believes</description>
+    </item>
+    
+    <item>
       <title>The Bets and Business of Self Driving</title>
       <link>https://keerthanapg.com/tech/self-driving-bets/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:01 +0000</pubDate>
@@ -313,7 +330,8 @@ If you don&amp;rsquo;t shut me up, I will talk endlessly about robotics, artific
       
       <guid>https://keerthanapg.com/talks/</guid>
       <description>ML Collective, Deep Learning Classics and Trends, March 2023 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model
- @media only screen and (min-width: 1025px) { .mobile-only { display:none !important; } } @media only screen and (max-width: 1026px) { .desktop-only { display:none !important; } }    Carnegie Mellon University, Dec 2022 Hosted by Prof Deepak Pathak, we talk about the bitter lesson and robotics transformer, starts at 56:54</description>
+  Carnegie Mellon University, Dec 2022 Hosted by Prof Deepak Pathak, we talk about the bitter lesson and robotics transformer, starts at 56:54  
+University of Berkeley, Nov 2022 Hosted by ML@Berkeley, the talk is titled &amp;ldquo;Using Language as a Connective Tissue for Robotics&amp;rdquo;</description>
     </item>
     
     <item>
