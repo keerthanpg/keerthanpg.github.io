@@ -201,7 +201,7 @@ As dust settled on its glossy green leaves</description>
       
       <guid>https://keerthanapg.com/projects/</guid>
       <description>For a full list of publications, check my google scholar page.
-RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  Training robots on internet scale image/text datasets Paper, Github Covered on the front page of New York Times  RT-1: Robotics Transformer for Real-World Control at Scale  Adapting transformers for fast and scalable robot manipulation Paper, Github, Google AI Blog  SayCan: Grounding Language in Robotic Affordances  Using large language models for planning in robotics Demos, Paper - Best paper at RSS 2022 Scaling Robot Learning Workshop, Oral at CoRL 2022  Self Driving Data Visualization  Data visualization for status quo on the race to build the self driving car.</description>
+AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents  Orchestrating robotics agents for real world operation using a Robot Constitution Paper, Website Forbes, The Verge, Business Insider  RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  Training robots on internet scale image/text datasets Paper, Website Covered on the front page of New York Times, Forbes  RT-1: Robotics Transformer for Real-World Control at Scale  Adapting transformers for fast and scalable robot manipulation Paper, Github, Google AI Blog  SayCan: Grounding Language in Robotic Affordances  Using large language models for planning in robotics Demos, Paper - Best paper at RSS 2022 Scaling Robot Learning Workshop, Oral at CoRL 2022  Self Driving Data Visualization  Data visualization for status quo on the race to build the self driving car.</description>
     </item>
     
     <item>
@@ -330,7 +330,7 @@ They have been special to me, and yet again, I stumbled upon these lines, as I s
       
       <guid>https://keerthanapg.com/about/</guid>
       <description>Hi
-I am Keerthana! I am a roboticist at Google Brain: I spend a lot of my time thinking about how to get scale robotics and build general purpose intelligence in the physical world.
+I am Keerthana! I am a researcher at Google Deepmind: I spend a lot of my time thinking about how to get scale robotics and build general purpose intelligence in the physical world.
 If you don&amp;rsquo;t shut me up, I will talk endlessly about robotics, artificial intelligence and self-driving. Currently much of my free time is spent authoring a textbook on Machine Learning for Robotics with OReilly Media. I am passionate about investing and stock markets, start-ups and technology, fitness, public policy in India and gender equality.</description>
     </item>
     
@@ -349,10 +349,11 @@ If you don&amp;rsquo;t shut me up, I will talk endlessly about robotics, artific
       <pubDate>Sun, 21 Mar 2021 17:37:56 -0700</pubDate>
       
       <guid>https://keerthanapg.com/talks/</guid>
-      <description>Cognitive Revolution Podcast, March 2023 Hosted by Nathan Labenz and Erik Torenberg
- ML Collective, Deep Learning Classics and Trends, March 2023 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model
- Carnegie Mellon University, Dec 2022 Hosted by Prof Deepak Pathak, we talk about the bitter lesson and robotics transformer, starts at 56:54  
-University of Berkeley, Nov 2022 Hosted by ML@Berkeley, the talk is titled &amp;ldquo;Using Language as a Connective Tissue for Robotics&amp;rdquo;</description>
+      <description>Neural Information Processings (NeurIPS), 2023 Speaker at 6th Workshop on Robot Learning
+ International Conference on Machine Learning (ICML), 2023 Panelist at Interactive Learning with Implicit Human Feedback Workshop moderated by Anca Dragan Watch recording of Panel 1
+Watch recording of Panel 2
+Cognitive Revolution Podcast, March 2023 Hosted by Nathan Labenz and Erik Torenberg
+ ML Collective, Deep Learning Classics and Trends, March 2023 Hosted by Rosanne Liu, we talk about recent advances in robotics and recipes to build a Robotics Foundation Model</description>
     </item>
     
     <item>
