@@ -1,36 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fiction on keerthanapg</title>
-    <link>https://keerthanapg.com/categories/fiction/</link>
-    <description>Recent content in Fiction on keerthanapg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 15 Jan 2018 17:37:56 -0700</lastBuildDate>
-    
-	<atom:link href="https://keerthanapg.com/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Rains, Thieves and Broken Dreams</title>
-      <link>https://keerthanapg.com/random/rain-thieves-broken-dreams/</link>
-      <pubDate>Mon, 15 Jan 2018 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/rain-thieves-broken-dreams/</guid>
-      <description>Originally Written here
-Unlike most of India that receives rains once, Kerala has two rounds of monsoons. The first of the season arrives in June when the advancing monsoons make bountiful our harvest and rake up our GDP numbers. The brief spell of unperturbed sunlight is broken by the retreating monsoons, popularly called ‘Thulavarsham’ for they occur in the month of October/’Thula’, taking their leave from the country having toured thoroughly.</description>
-    </item>
-    
-    <item>
-      <title>An Eventful Dream</title>
-      <link>https://keerthanapg.com/random/eventful-dream/</link>
-      <pubDate>Sun, 17 Sep 2017 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/eventful-dream/</guid>
-      <description>Originally Written here
-This is an account of a dream I had today:
-It was set in the years of the freedom movement in India and World War 2. Agricultural production had failed due to drought, war, plunder and loot by the imperialists to aid war supplies. My grandmother and I, two patriots on the run, lived in a small and claustrophobic mud-walled shack with a tiny door and window, in the basement of a busy school building.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Fiction on keerthanapg</title>
+		<link>https://keerthanapg.com/categories/fiction/</link>
+		<description>Recent content in Fiction on keerthanapg</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Jan 2018 17:37:56 -0700</lastBuildDate>
+		
+			<atom:link href="https://keerthanapg.com/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rains, Thieves and Broken Dreams</title>
+				<link>https://keerthanapg.com/random/rain-thieves-broken-dreams/</link>
+				<pubDate>Mon, 15 Jan 2018 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/rain-thieves-broken-dreams/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/rains-thieves-and-broken-dreams-195692a67de6?source=---------0-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Unlike most of India that receives rains once, Kerala has two rounds of monsoons. The first of the season arrives in June when the advancing monsoons make bountiful our harvest and rake up our GDP numbers. The brief spell of unperturbed sunlight is broken by the retreating monsoons, popularly called ‘Thulavarsham’ for they occur in the month of October/’Thula’, taking their leave from the country having toured thoroughly. Palghat being the gap between the Nilgiris is a recipient of copious rains on both occasions, as much awaited winds arrive and depart through the mountains. One such rainy night, Unnimol, a thirteen year old girl in Palghat was peacefully asleep in her parents’ room after a stubborn protest to sleep with them. Her mother, Latha tried to subtly coerce her but had failed. ‘You can not sleep with your brother and his wife, you can’t with your mom and dad, but you can, with your grandmother or with your grandmother and grandfather’. Being a girl from rural Palghat, who didn’t even know what boyfriend meant at that age, Unnimol wasn’t going to take any of that.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>An Eventful Dream</title>
+				<link>https://keerthanapg.com/random/eventful-dream/</link>
+				<pubDate>Sun, 17 Sep 2017 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/eventful-dream/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/an-eventful-dream-58207d6f4253?source=---------1-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is an account of a dream I had today:&lt;/p&gt;&#xA;&lt;p&gt;It was set in the years of the freedom movement in India and World War 2. Agricultural production had failed due to drought, war, plunder and loot by the imperialists to aid war supplies. My grandmother and I, two patriots on the run, lived in a small and claustrophobic mud-walled shack with a tiny door and window, in the basement of a busy school building. It was stuffy and hot at noon when our door was knocked at by a visitor, a South Indian movie star, who was running from the British and seeking refuge. With a rapidly reducing stock of grain, we offered him a place, where he would sit long nights staring at the pendant he wore around his neck, a gift from his beloved before he got separated from her and was chased by the British.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

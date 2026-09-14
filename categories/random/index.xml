@@ -1,97 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Random on keerthanapg</title>
-    <link>https://keerthanapg.com/categories/random/</link>
-    <description>Recent content in Random on keerthanapg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 02 Jan 2023 00:00:01 +0000</lastBuildDate>
-    
-	<atom:link href="https://keerthanapg.com/categories/random/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The Bets and Business of Self Driving</title>
-      <link>https://keerthanapg.com/tech/self-driving-bets/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:01 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/tech/self-driving-bets/</guid>
-      <description>Opinions presented in this article are that of the author alone and does not represent those of her employer.
-As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week Waymo and Cruise announced they are scaling to 3+ cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin.</description>
-    </item>
-    
-    <item>
-      <title>Women and Effective Altruism</title>
-      <link>https://keerthanapg.com/random/ea-women/</link>
-      <pubDate>Fri, 11 Nov 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/ea-women/</guid>
-      <description>Edit: This was cross posted to EA forum, and is a heavily downvoted post in their community. You can see the discussion here
-A lot has been talked about SBF/FTX/EA but this coverage reminds me that is time to talk about the toxicity of the culture within EA communities, especially as it relates to women.
-EA circles, much like the group house in Bahamas, are widely incestous where people mix their work life (in EA cause areas), their often polyamorous love life and social life in one amalgomous mix without strict separations.</description>
-    </item>
-    
-    <item>
-      <title>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner II</title>
-      <link>https://keerthanapg.com/tech/vacuum-cleaner-2/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:01 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/tech/vacuum-cleaner-2/</guid>
-      <description>Chapter 2: Flutterings of a Mechanical Heart Read Chapter 1: Household Reflections
-The San Francisco Bay Area is a melting pot for machines like me. Our owners are like restless children, easily enchanted by technology, devices and their upgrades. Rob prides himself on being an early adopter and gets the new iPhone the day it releases to show off to his discord buddies. Jenny is a software engineer and quite a savvy one at it.</description>
-    </item>
-    
-    <item>
-      <title>Embodiment is Indispensable for AGI</title>
-      <link>https://keerthanapg.com/tech/embodiment-agi/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/tech/embodiment-agi/</guid>
-      <description>There are many paths on the road to AGI. Nando de Freitas recently wrote that “Scale is all you need” following the release of Deepmind’s Gato paper. Larger and larger transformers, with language interfaces doing supervised learning on large datasets is one such touted path. While Gato trains and evaluates on data from physical robots, there is a larger paradigm on getting to AGI that fully bypasses embodiment or robotics. This is the path pursued by OpenAI/Anthropic, who once famously disbanded their robotics team.</description>
-    </item>
-    
-    <item>
-      <title>Reward is Not Not Enough: AGI and Reward Maximization</title>
-      <link>https://keerthanapg.com/tech/reward-is-not-not-enough/</link>
-      <pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
-      <description>So I chanced by this post on LessWrong titled &amp;ldquo;Reward is Not Enough&amp;rdquo;. It is a rebuttal to the arguments presented in the paper &amp;ldquo;Reward is Enough&amp;rdquo; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination.</description>
-    </item>
-    
-    <item>
-      <title>Lazy Sunday Morning</title>
-      <link>https://keerthanapg.com/random/lazy-sunday-morning/</link>
-      <pubDate>Mon, 22 Mar 2021 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/lazy-sunday-morning/</guid>
-      <description>Originally Written here
-June 22, 2013
-“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”
-They have been special to me, and yet again, I stumbled upon these lines, as I sat up overnight to finish off David Baldacci’s thriller First Family. To talk of the book, a good plot, but the literature was just, mediocre. It seems like a tactic now, for writers to pull across a best-seller, by starring the President of the States in their plots, and most necessarily the NSA and FBI, and how it is of paramount importance to the lives of millions in America.</description>
-    </item>
-    
-    <item>
-      <title>What to know before donating your hair?</title>
-      <link>https://keerthanapg.com/random/donating-hair/</link>
-      <pubDate>Thu, 22 Nov 2018 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/donating-hair/</guid>
-      <description>Originally Written here
-This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.
-Before - After  What to note:
- Talk to others before you do it and be very sure you want to donate.</description>
-    </item>
-    
-    <item>
-      <title>Keeeeeeeee :)</title>
-      <link>https://keerthanapg.com/random/keeeeeee/</link>
-      <pubDate>Sun, 22 Oct 2017 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/keeeeeee/</guid>
-      <description>  </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Random on keerthanapg</title>
+		<link>https://keerthanapg.com/categories/random/</link>
+		<description>Recent content in Random on keerthanapg</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 02 Jan 2023 00:00:01 +0000</lastBuildDate>
+		
+			<atom:link href="https://keerthanapg.com/categories/random/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Bets and Business of Self Driving</title>
+				<link>https://keerthanapg.com/tech/self-driving-bets/</link>
+				<pubDate>Mon, 02 Jan 2023 00:00:01 +0000</pubDate>
+				<guid>https://keerthanapg.com/tech/self-driving-bets/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Opinions presented in this article are that of the author alone and does not represent those of her employer.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;As the new year drives in, let’s look back at some of the technological bets in self driving and where we are at with them today. Just last week &lt;a href=&#34;https://blog.waymo.com/2022/12/wheels-up-for-waymo-as-we-expand.html&#34;&gt;Waymo&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/kvogt/status/1605234916043939840&#34;&gt;Cruise&lt;/a&gt; announced they are scaling to 3+ cities in the US, fully driverless. Waymo in Phoenix and SF, and Cruise in Phoenix, SF and Austin. Rides are now available to the public for charge and I myself &lt;a href=&#34;https://twitter.com/keerthanpg/status/1591355457616379905&#34;&gt;took a driverless ride in a Cruise&lt;/a&gt; despite not working for the company.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Women and Effective Altruism</title>
+				<link>https://keerthanapg.com/random/ea-women/</link>
+				<pubDate>Fri, 11 Nov 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/ea-women/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Edit: This was cross posted to EA forum, and is a heavily downvoted post in their community. You can see the discussion &lt;a href=&#34;https://forum.effectivealtruism.org/posts/NacFjEJGoFFWRqsc8/women-and-effective-altruism&#34;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A lot has been talked about SBF/FTX/EA but &lt;a href=&#34;https://www.businessinsider.com/ftx-inner-circle-all-dated-each-other-in-bahamas-report-2022-11&#34;&gt;this&lt;/a&gt; coverage reminds me that is time to talk about the toxicity of the culture within EA communities, especially as it relates to women.&lt;/p&gt;&#xA;&lt;p&gt;EA circles, much like the group house in Bahamas, are widely incestous where people mix their work life (in EA cause areas), their often polyamorous love life and social life in one amalgomous mix without strict separations. This is the default status quo. This means that if you’re a reasonably attractive woman entering an EA community, you get a ton of sexual requests to join polycules, often from poly and partnered men. Some of these men control funding for projects and enjoy high status in EA communities and that means there are real downsides to refusing their sexual advances and pressure to say yes, especially if your career is in an EA cause area or is funded by them. There are also upsides, as reported by CoinDesk on Caroline Ellison. From experience it appears that, a ‘no’ once said is not enough for many men in EA. Having to keep replenishing that ‘no’ becomes annoying very fast, and becomes harder to give informed consent when socializing in the presence of alcohol/psychedelics. It puts your safety at risk. From experience, EA as a community, has very little respect for monogamy and many men, often competing with each other, will persuade you to join polyamory using LessWrong style jedi mindtricks while they stand to benefit from the erosion of your boundaries. (Edit: I have personally experienced this more than three times in less than one year of attending EA events and that is far too many times. )&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures of Roomba: Tales of a Sentient Vacuum Cleaner II</title>
+				<link>https://keerthanapg.com/tech/vacuum-cleaner-2/</link>
+				<pubDate>Fri, 23 Sep 2022 00:00:01 +0000</pubDate>
+				<guid>https://keerthanapg.com/tech/vacuum-cleaner-2/</guid>
+				<description>&lt;h1 id=&#34;chapter-2-flutterings-of-a-mechanical-heart&#34;&gt;&#xA;  Chapter 2: Flutterings of a Mechanical Heart&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#chapter-2-flutterings-of-a-mechanical-heart&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://keerthanapg.com/tech/satient-vacuum-cleaner-copy/&#34;&gt;Read Chapter 1: Household Reflections&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The San Francisco Bay Area is a melting pot for machines like me. Our owners are like restless children, easily enchanted by technology, devices and their upgrades. Rob prides himself on being an early adopter and gets the new iPhone the day it releases to show off to his discord buddies. Jenny is a software engineer and quite a savvy one at it. In the valley, you move fast or die from irrelevance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Embodiment is Indispensable for AGI</title>
+				<link>https://keerthanapg.com/tech/embodiment-agi/</link>
+				<pubDate>Tue, 07 Jun 2022 00:00:01 +0000</pubDate>
+				<guid>https://keerthanapg.com/tech/embodiment-agi/</guid>
+				<description>&lt;p&gt;There are many paths on the road to AGI. Nando de Freitas recently wrote that “Scale is all you need” following the release of Deepmind’s Gato paper. Larger and larger transformers, with language interfaces doing supervised learning on large datasets is one such touted path. While Gato trains and evaluates on data from physical robots, there is a larger paradigm on getting to AGI that fully bypasses embodiment or robotics. This is the path pursued by OpenAI/Anthropic, who once famously &lt;a href=&#34;https://www.therobotreport.com/openai-abandons-robotics-research/&#34;&gt;disbanded their robotics team&lt;/a&gt;. I recently found myself in a car ride with a friend who was a “member of technical staff” at OpenAI and he asked “Do you think solving embodied AI is required for AGI or is it enough to be digital?” I have thought a lot about that question since.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reward is Not Not Enough: AGI and Reward Maximization</title>
+				<link>https://keerthanapg.com/tech/reward-is-not-not-enough/</link>
+				<pubDate>Thu, 10 Mar 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/tech/reward-is-not-not-enough/</guid>
+				<description>&lt;p&gt;So I chanced by this post on LessWrong titled &lt;a href=&#34;https://www.lesswrong.com/posts/frApEhpyKQAcFvbXJ/reward-is-not-enough&#34;&gt;&amp;ldquo;Reward is Not Enough&amp;rdquo;&lt;/a&gt;. It is a rebuttal to the arguments presented in the paper &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0004370221000862?via%3Dihub&#34;&gt;&amp;ldquo;Reward is Enough&amp;rdquo;&lt;/a&gt; by Silver et al, which hypothesises that intelligence and its associated attributes are a result of reward maximization of an agent acting in its environment. Given the popularity of the LessWrong Forum, the pseudo-persuasive appeal of the article aided by technical jargon and for the sake of rationality, the post merits a deeper examination. I think the post is somewhat ill-informed fear mongering. Here’s why:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lazy Sunday Morning</title>
+				<link>https://keerthanapg.com/random/lazy-sunday-morning/</link>
+				<pubDate>Mon, 22 Mar 2021 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/lazy-sunday-morning/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/lazy-sunday-morning-8f4d5b2942f5?source=---------0-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;June 22, 2013&lt;/p&gt;&#xA;&lt;p&gt;“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.”&lt;/p&gt;&#xA;&lt;p&gt;They have been special to me, and yet again, I stumbled upon these lines, as I sat up overnight to finish off David Baldacci’s thriller First Family. To talk of the book, a good plot, but the literature was just, mediocre. It seems like a tactic now, for writers to pull across a best-seller, by starring the President of the States in their plots, and most necessarily the NSA and FBI, and how it is of paramount importance to the lives of millions in America. Big deal! I have seen lots like that.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What to know before donating your hair?</title>
+				<link>https://keerthanapg.com/random/donating-hair/</link>
+				<pubDate>Thu, 22 Nov 2018 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/donating-hair/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/what-to-know-before-donating-your-hair-2cd0af4662c8?source=---------1-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This summer, I donated ten inches of my hair to Pantene Beautiful Lengths that make wigs for people suffering from cancer. In the US alone, every year about 100,000 people take chemotherapy for cancer treatment and undergo hair loss. The process of donating is fairly simple and easy though it’s important to keep a thing or two in mind.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;div style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem; text-align: center;&#34;&gt;&#xA;    &lt;img src=&#34;./before-after.jpeg&#34; /&gt;&#xA;    Before - After&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;What to note:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Keeeeeeeee :)</title>
+				<link>https://keerthanapg.com/random/keeeeeee/</link>
+				<pubDate>Sun, 22 Oct 2017 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/keeeeeee/</guid>
+				<description>&lt;div style=&#34;height: 100%; width: 100%; text-align: center;&#34;&gt;&#xA;    &lt;img style=&#34;display: inline-block; width: 50%;&#34; src=&#34;./Self.jpeg&#34; /&gt;&#xA;&lt;/div&gt;</description>
+			</item>
+	</channel>
 </rss>

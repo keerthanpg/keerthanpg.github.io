@@ -1,69 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on keerthanapg</title>
-    <link>https://keerthanapg.com/categories/</link>
-    <description>Recent content in Categories on keerthanapg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2023 17:37:56 -0700</lastBuildDate>
-    
-	<atom:link href="https://keerthanapg.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Poem</title>
-      <link>https://keerthanapg.com/categories/poem/</link>
-      <pubDate>Sun, 20 Aug 2023 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random</title>
-      <link>https://keerthanapg.com/categories/random/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:01 +0000</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Policy</title>
-      <link>https://keerthanapg.com/categories/policy/</link>
-      <pubDate>Mon, 11 Jul 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cooking</title>
-      <link>https://keerthanapg.com/categories/cooking/</link>
-      <pubDate>Sat, 02 Jul 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/cooking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://keerthanapg.com/categories/technology/</link>
-      <pubDate>Sat, 25 May 2019 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiction</title>
-      <link>https://keerthanapg.com/categories/fiction/</link>
-      <pubDate>Mon, 15 Jan 2018 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/categories/fiction/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Categories on keerthanapg</title>
+		<link>https://keerthanapg.com/categories/</link>
+		<description>Recent content in Categories on keerthanapg</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 20 Aug 2023 17:37:56 -0700</lastBuildDate>
+		
+			<atom:link href="https://keerthanapg.com/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Poem</title>
+				<link>https://keerthanapg.com/categories/poem/</link>
+				<pubDate>Sun, 20 Aug 2023 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/categories/poem/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Random</title>
+				<link>https://keerthanapg.com/categories/random/</link>
+				<pubDate>Mon, 02 Jan 2023 00:00:01 +0000</pubDate>
+				<guid>https://keerthanapg.com/categories/random/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Policy</title>
+				<link>https://keerthanapg.com/categories/policy/</link>
+				<pubDate>Mon, 11 Jul 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/categories/policy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cooking</title>
+				<link>https://keerthanapg.com/categories/cooking/</link>
+				<pubDate>Sat, 02 Jul 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/categories/cooking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Technology</title>
+				<link>https://keerthanapg.com/categories/technology/</link>
+				<pubDate>Sat, 25 May 2019 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/categories/technology/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fiction</title>
+				<link>https://keerthanapg.com/categories/fiction/</link>
+				<pubDate>Mon, 15 Jan 2018 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/categories/fiction/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

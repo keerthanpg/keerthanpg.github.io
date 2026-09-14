@@ -1,111 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cooking on keerthanapg</title>
-    <link>https://keerthanapg.com/categories/cooking/</link>
-    <description>Recent content in Cooking on keerthanapg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 02 Jul 2022 17:37:56 -0700</lastBuildDate>
-    
-	<atom:link href="https://keerthanapg.com/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Recipe: Mongolian Beef</title>
-      <link>https://keerthanapg.com/random/mongolian-beef/</link>
-      <pubDate>Sat, 02 Jul 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/mongolian-beef/</guid>
-      <description>Preparation time - 1 hour
-Cooking time - 10 minutes
-Ingredients:  Beef flank - 1 pound Corn starch - 1/2 cup Olive oil - 1/2 cup Scallions - 5 Soy sauce - 1/2 cup Brown sugar - 3 Tbsp Ginger - grated - 1.5 tsp Garlic cloves - 4 grated Roasted red chilli - 10  How to:  Cut the beef into thin slices Marinate the beef for 1 hour with 2 Tsp corn starch, 2 tsp olive oil and 2 tsp soy sauce After one hour add the remaining corn starch and mix it until the beef is coated with a thin layer of corn starch.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Broccoli Beef</title>
-      <link>https://keerthanapg.com/random/broccoli-beef/</link>
-      <pubDate>Mon, 27 Jun 2022 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/broccoli-beef/</guid>
-      <description>Preparation time - 15 minutes
-Cooking time - 10 minutes
-Ingredients:  Beef flank - 1 pound Corn starch - 1 Tbsp Olive oil - 1 Tbsp Broccoli - 0.5 pounds Soy sauce - 6 Tbsp Brown sugar - 2 Tbsp Ginger - grated - 1.5 tsp Garlic cloves - 4 grated Sesame seeds - to garnish Hot water - 1/2 cup Sesame oil - 2 Tbsp Black pepper powder - 1/2 tbsp  How to:  Cut the beef into thin slices  Cut the broccoli into small florets.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Horse gram, Kale and Sprouts salad with Rice</title>
-      <link>https://keerthanapg.com/random/quarantine-meals/</link>
-      <pubDate>Sat, 21 Mar 2020 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/quarantine-meals/</guid>
-      <description>Served with a side of boiled rice.
-Horse Gram Stir Fried: Originally Written here
-Ingredients:
- Horse gram — 1 cup Salt — 1 tbsp Water — 2 cups Green chillies — 4 Red chilli powder — 0.5 tbsp Olive oil — 2 Tbsp Garlic — 3 cloves Curry leaves — optional  Preparation:
- Boil the horse gram with water and salt in a closed container / pressure cooker until cooked.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Hefezopf</title>
-      <link>https://keerthanapg.com/random/hefezopf/</link>
-      <pubDate>Mon, 20 May 2019 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/hefezopf/</guid>
-      <description>Originally Written here
-(This is a creative variant of a German Easter speciality known as Hefezopf)
-Ingredients:
- Flour — 400 gms Yeast — 2 tbps Sugar — 1/2 cups Butter — 2 Tbps Water Baking soda — 1/2 tsp Jam — ~10 tsps Walnuts — 1/3 cups Chocolate — 1/3 cups Raisins — 1/3 cups  Mix the flour, yeast, sugar, butter, baking soda and water to create a smooth dough and let it rest for an hour.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Palpayasam</title>
-      <link>https://keerthanapg.com/random/palpayasam/</link>
-      <pubDate>Fri, 01 Feb 2019 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/palpayasam/</guid>
-      <description>Originally Written here
-This is a traditional Malayali desert.
-Expected time: 30 minutes
-Ingredients:  Milk: 750mL Water Sugar: 2 Tbsp Rice: 2.5 Tbsp Ghee: 0.75 Tbsp Cashew: 50 grams Cardamom: 1 tsp  Procedure:  Melt the ghee and saute the rice and cashew in it for 1.5 minutes on high flame. Pour the milk, add sugar and cardamom and cook on low flame until rice is well cooked. Stir continuously.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Ginger-Cardamom Latte Tea</title>
-      <link>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</link>
-      <pubDate>Thu, 30 Aug 2018 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</guid>
-      <description>Originally Written here
-It’s healthy, tasty and complements well when you’re working on tough assignments :P
-Ingredients(makes 2 cups):
- Water — 1 cup Milk — 1 cup Sugar — based on preference Tea leaves — 2 tsps( I use Red Label brand and the strength of the tea depends on the brand somewhat. Green tea is weak) Ginger — small chunk (approx 2cm _ 2cm _ 0.5cm) Cardamom seeds — 0.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Easy Baked Chicken</title>
-      <link>https://keerthanapg.com/random/easy-baked-chicken/</link>
-      <pubDate>Sun, 14 Jan 2018 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/easy-baked-chicken/</guid>
-      <description>Originally Written here
-Preparation time- 35 minutes
-What you need:
- Tender chicken breasts — 0.5 pounds Olive oil — 2 table spoons Ginger garlic paste — 1 table spoon Pepper finely ground — 1 teaspoon Chilly powder — 0.25 teaspoon Garam masala — a pinch Turmeric powder— a pinch Lemon — a small slice Salt — as required  How to:
- Mix the powders and ginger-garlic to a paste.</description>
-    </item>
-    
-    <item>
-      <title>Recipe: Quick and Easy Pasta</title>
-      <link>https://keerthanapg.com/random/quick-easy-pasta/</link>
-      <pubDate>Mon, 16 Oct 2017 17:37:56 -0700</pubDate>
-      
-      <guid>https://keerthanapg.com/random/quick-easy-pasta/</guid>
-      <description>Originally Written here
-Sharing successful tidbits from my reluctant adventures as a student cook. :)
-Ingredients:
- Pasta — 1 cup Salsa sauce — 3 table spoons Cut up veggies — 3/5 cup Soy sauce — 1 tsp Garlic powder/paste — 1/2 tsp Ginger powder/paste — 1/4 tsp Chilli powder — 3/4 tsp Parmesan Cheese grated — 1/4 cup Mayonnaise — 1.5 tsp Pepper grated — 1 tsp Butter/ghee — 1 tsp Vegetable oil — 1 tsp Tomato sauce — 1 table spoon Salt — 1 tsp Turmeric powder — a pinch  Steps:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Cooking on keerthanapg</title>
+		<link>https://keerthanapg.com/categories/cooking/</link>
+		<description>Recent content in Cooking on keerthanapg</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 02 Jul 2022 17:37:56 -0700</lastBuildDate>
+		
+			<atom:link href="https://keerthanapg.com/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Recipe: Mongolian Beef</title>
+				<link>https://keerthanapg.com/random/mongolian-beef/</link>
+				<pubDate>Sat, 02 Jul 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/mongolian-beef/</guid>
+				<description>&lt;p&gt;Preparation time - 1 hour &lt;br&gt;&#xA;Cooking time - 10 minutes&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 70%; float: center; padding-left: 2rem;&#34;  src=&#34;./mongolian-beef.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;&#xA;  Ingredients:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ingredients&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Beef flank - 1 pound&lt;/li&gt;&#xA;&lt;li&gt;Corn starch - 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Olive oil - 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Scallions - 5&lt;/li&gt;&#xA;&lt;li&gt;Soy sauce - 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Brown sugar - 3 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Ginger - grated - 1.5 tsp&lt;/li&gt;&#xA;&lt;li&gt;Garlic cloves - 4 grated&lt;/li&gt;&#xA;&lt;li&gt;Roasted red chilli - 10&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;how-to&#34;&gt;&#xA;  How to:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-to&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cut the beef into thin slices&lt;/li&gt;&#xA;&lt;li&gt;Marinate the beef for 1 hour with 2 Tsp corn starch, 2 tsp olive oil and 2 tsp soy sauce&lt;/li&gt;&#xA;&lt;li&gt;After one hour add the remaining corn starch and mix it until the beef is coated with a thin layer of corn starch.&lt;/li&gt;&#xA;&lt;li&gt;Now in a separate bowl, mix 1/2 cup of hot water, 3Tsp of brown sugar and the rest of the soy sauce. Mix until sugar is dissolved.&lt;/li&gt;&#xA;&lt;li&gt;Cut the scallions into 1 inch long pieces along the diagonal.&lt;/li&gt;&#xA;&lt;li&gt;Grate the ginger and garlic&lt;/li&gt;&#xA;&lt;li&gt;Now on a wok, heat 1/3 cup olive oil on high heat and add the beef. cook for 1 minutes, then flip the beef and cook for 30 seconds. The beef should be very crispy at this point.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./beef-fry.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;ol start=&#34;8&#34;&gt;&#xA;&lt;li&gt;Remove the beef to a flat pan while leaving 1 Tbsp of oil in the wok. Drain the remaining oil from the beef by tilting the flat pan.&lt;/li&gt;&#xA;&lt;li&gt;Add ginger and chilli to the wok and roast for 20 seconds, now add ginger and mix for 15 seconds, now add the sauce prepared in step 4 and the remaining corn starch from the beef and let it simmer for 2 minutes.&lt;/li&gt;&#xA;&lt;li&gt;Add beef and scallions to the wok and cook for 1 minute.&lt;/li&gt;&#xA;&lt;li&gt;Serve hot alongside steamed rice.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Broccoli Beef</title>
+				<link>https://keerthanapg.com/random/broccoli-beef/</link>
+				<pubDate>Mon, 27 Jun 2022 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/broccoli-beef/</guid>
+				<description>&lt;p&gt;Preparation time - 15 minutes &lt;br&gt;&#xA;Cooking time - 10 minutes&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 70%; float: center;&#34;  src=&#34;./broccoli-beef.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;ingredients&#34;&gt;&#xA;  Ingredients:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ingredients&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Beef flank - 1 pound&lt;/li&gt;&#xA;&lt;li&gt;Corn starch - 1 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Olive oil - 1 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Broccoli - 0.5 pounds&lt;/li&gt;&#xA;&lt;li&gt;Soy sauce - 6 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Brown sugar - 2 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Ginger - grated - 1.5 tsp&lt;/li&gt;&#xA;&lt;li&gt;Garlic cloves - 4 grated&lt;/li&gt;&#xA;&lt;li&gt;Sesame seeds - to garnish&lt;/li&gt;&#xA;&lt;li&gt;Hot water - 1/2 cup&lt;/li&gt;&#xA;&lt;li&gt;Sesame oil - 2 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Black pepper powder - 1/2 tbsp&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;how-to&#34;&gt;&#xA;  How to:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-to&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cut the beef into thin slices&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./beef.jpeg &#34; /&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Cut the broccoli into small florets.&lt;/li&gt;&#xA;&lt;li&gt;In a bowl, add 1/2 cup hot water, the soy sauce, the sesame oil, the ginger and garlic, corn starch and black pepper powder and brown sugar and mix until the sugar is dissolved.&lt;/li&gt;&#xA;&lt;li&gt;Add 1 Tbsp of olive oil to a wok on medium heat and saute the broccoli for 4-5 minutes until they&amp;rsquo;re crispy.&lt;/li&gt;&#xA;&lt;li&gt;Remove the broccoli from the wok, add another Tbsp of oil and on high heat add the beaf in one layer. Cook for 2 minutes and then flip to the other side, cook for 1 minute.&lt;/li&gt;&#xA;&lt;li&gt;Now add the sauce and let it simmer for 2 minutes. Add the broccoli and stir for 30 seconds. Add water to adjust sauce consistency to your preference.&lt;/li&gt;&#xA;&lt;li&gt;Serve alongside steamed rice.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Horse gram, Kale and Sprouts salad with Rice</title>
+				<link>https://keerthanapg.com/random/quarantine-meals/</link>
+				<pubDate>Sat, 21 Mar 2020 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/quarantine-meals/</guid>
+				<description>&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 50%;&#34;  src=&#34;./Screenshot.jpeg&#34; /&gt;&#xA;&#xA;&#xA;&lt;p&gt;Served with a side of boiled rice.&lt;/p&gt;&#xA;&lt;h1 id=&#34;horse-gram-stir-fried&#34;&gt;&#xA;  Horse Gram Stir Fried:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#horse-gram-stir-fried&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/quarantine-meals-horse-gram-kale-and-sprouts-salad-with-rice-34db9a8a87d5?source=---------0-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Horse gram — 1 cup&lt;/li&gt;&#xA;&lt;li&gt;Salt — 1 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Water — 2 cups&lt;/li&gt;&#xA;&lt;li&gt;Green chillies — 4&lt;/li&gt;&#xA;&lt;li&gt;Red chilli powder — 0.5 tbsp&lt;/li&gt;&#xA;&lt;li&gt;Olive oil — 2 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Garlic — 3 cloves&lt;/li&gt;&#xA;&lt;li&gt;Curry leaves — optional&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Preparation:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Boil the horse gram with water and salt in a closed container / pressure cooker until cooked.&lt;/li&gt;&#xA;&lt;li&gt;Add oil in a different pan and saute the garlic, green chillies and curry leaves( if using).&lt;/li&gt;&#xA;&lt;li&gt;Drain the water from the cooked horse gram and add it to pan.&lt;/li&gt;&#xA;&lt;li&gt;Add chilli power and adjust for salt.&lt;/li&gt;&#xA;&lt;li&gt;Cook for 5 minutes and take off the stove and serve hot.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;kale&#34;&gt;&#xA;  Kale:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#kale&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Hefezopf</title>
+				<link>https://keerthanapg.com/random/hefezopf/</link>
+				<pubDate>Mon, 20 May 2019 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/hefezopf/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/hefezopf-65388706d232?source=---------1-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;(This is a creative variant of a German Easter speciality known as Hefezopf)&lt;/p&gt;&#xA;&lt;p&gt;Ingredients:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Flour — 400 gms&lt;/li&gt;&#xA;&lt;li&gt;Yeast — 2 tbps&lt;/li&gt;&#xA;&lt;li&gt;Sugar — 1/2 cups&lt;/li&gt;&#xA;&lt;li&gt;Butter — 2 Tbps&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Baking soda — 1/2 tsp&lt;/li&gt;&#xA;&lt;li&gt;Jam — ~10 tsps&lt;/li&gt;&#xA;&lt;li&gt;Walnuts — 1/3 cups&lt;/li&gt;&#xA;&lt;li&gt;Chocolate — 1/3 cups&lt;/li&gt;&#xA;&lt;li&gt;Raisins — 1/3 cups&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Mix the flour, yeast, sugar, butter, baking soda and water to create a smooth dough and let it rest for an hour. Now, divide this into three almost equal parts. Roll them out into long rectangles and apply jam on one side to make it sticky. Now, add the nuts and chocolates, crushed to the side where jam is applied and roll it to make long stuffed pipes of dough. Plait them as you’d do hair and tuck the sides. Bake for 30 minutes at 350 F. Cut and serve.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Palpayasam</title>
+				<link>https://keerthanapg.com/random/palpayasam/</link>
+				<pubDate>Fri, 01 Feb 2019 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/palpayasam/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/palpayasam-63947a6902ed?source=---------2-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./Palpayasam.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;p&gt;This is a traditional Malayali desert.&lt;/p&gt;&#xA;&lt;p&gt;Expected time: 30 minutes&lt;/p&gt;&#xA;&lt;h4 id=&#34;ingredients&#34;&gt;&#xA;  Ingredients:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ingredients&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Milk: 750mL&lt;/li&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Sugar: 2 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Rice: 2.5 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Ghee: 0.75 Tbsp&lt;/li&gt;&#xA;&lt;li&gt;Cashew: 50 grams&lt;/li&gt;&#xA;&lt;li&gt;Cardamom: 1 tsp&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;procedure&#34;&gt;&#xA;  Procedure:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#procedure&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Melt the ghee and saute the rice and cashew in it for 1.5 minutes on high flame.&lt;/li&gt;&#xA;&lt;li&gt;Pour the milk, add sugar and cardamom and cook on low flame until rice is well cooked.&lt;/li&gt;&#xA;&lt;li&gt;Stir continuously.&lt;/li&gt;&#xA;&lt;li&gt;Add water to regulate the consistency.&lt;/li&gt;&#xA;&lt;li&gt;Once the rice is cooked, use your ladle to mash the rice to thicken the mixture.&lt;/li&gt;&#xA;&lt;li&gt;Take off the flame and serve hot.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;protip&#34;&gt;&#xA;  Protip:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#protip&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Add a handful of rose petals a minute before you take off the flame to garnish the payasam.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Ginger-Cardamom Latte Tea</title>
+				<link>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</link>
+				<pubDate>Thu, 30 Aug 2018 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/ginger-cardamom-latte-tea/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-ginger-cardamom-latte-tea-436fef1335b3?source=---------3-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s healthy, tasty and complements well when you’re working on tough assignments :P&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./latte-tea.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;p&gt;Ingredients(makes 2 cups):&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Water — 1 cup&lt;/li&gt;&#xA;&lt;li&gt;Milk — 1 cup&lt;/li&gt;&#xA;&lt;li&gt;Sugar — based on preference&lt;/li&gt;&#xA;&lt;li&gt;Tea leaves — 2 tsps( I use Red Label brand and the strength of the tea depends on the brand somewhat. Green tea is weak)&lt;/li&gt;&#xA;&lt;li&gt;Ginger — small chunk (approx 2cm _ 2cm _ 0.5cm)&lt;/li&gt;&#xA;&lt;li&gt;Cardamom seeds — 0.5 tsp&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Procedure:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Easy Baked Chicken</title>
+				<link>https://keerthanapg.com/random/easy-baked-chicken/</link>
+				<pubDate>Sun, 14 Jan 2018 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/easy-baked-chicken/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-simple-baked-chicken-a14e66f8faf0?source=---------5-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Preparation time- 35 minutes&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./chicken.jpeg &#34; /&gt;&#xA;&#xA;&#xA;&lt;p&gt;What you need:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tender chicken breasts — 0.5 pounds&lt;/li&gt;&#xA;&lt;li&gt;Olive oil — 2 table spoons&lt;/li&gt;&#xA;&lt;li&gt;Ginger garlic paste — 1 table spoon&lt;/li&gt;&#xA;&lt;li&gt;Pepper finely ground — 1 teaspoon&lt;/li&gt;&#xA;&lt;li&gt;Chilly powder — 0.25 teaspoon&lt;/li&gt;&#xA;&lt;li&gt;Garam masala — a pinch&lt;/li&gt;&#xA;&lt;li&gt;Turmeric powder— a pinch&lt;/li&gt;&#xA;&lt;li&gt;Lemon — a small slice&lt;/li&gt;&#xA;&lt;li&gt;Salt — as required&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;How to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mix the powders and ginger-garlic to a paste.&lt;/li&gt;&#xA;&lt;li&gt;Cut the breast into 2–4 large slices&lt;/li&gt;&#xA;&lt;li&gt;Rub the olive oil on the meat&lt;/li&gt;&#xA;&lt;li&gt;Now make shallow oblique slits on the surface of the chicken so the masalas and salt can sink in&lt;/li&gt;&#xA;&lt;li&gt;Apply the salt and then the paste earlier prepared evenly. Go thicker on thicker cross sections and scarce on the corners.&lt;/li&gt;&#xA;&lt;li&gt;Preheat oven to 400 F.&lt;/li&gt;&#xA;&lt;li&gt;Place the meat on an oven friendly tray and bake for 10 minutes.&lt;/li&gt;&#xA;&lt;li&gt;Take it out, apply lime juice on both sides.&lt;/li&gt;&#xA;&lt;li&gt;Flip and bake for 12 more minutes until the center is cooked and tender.&lt;/li&gt;&#xA;&lt;li&gt;Serve hot :)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>Recipe: Quick and Easy Pasta</title>
+				<link>https://keerthanapg.com/random/quick-easy-pasta/</link>
+				<pubDate>Mon, 16 Oct 2017 17:37:56 -0700</pubDate>
+				<guid>https://keerthanapg.com/random/quick-easy-pasta/</guid>
+				<description>&lt;p&gt;Originally Written &lt;a href=&#34;https://medium.com/%E0%B4%95%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%81%E0%B4%95%E0%B5%BE/graduate-student-recipes-quick-and-easy-pasta-1e6a2581620a?source=---------4-----------------------&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sharing successful tidbits from my reluctant adventures as a student cook. :)&lt;/p&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;special-img-class&#34; style=&#34;height: 100%; width: 45%; float: right; padding-left: 2rem;&#34;  src=&#34;./pasta.gif &#34; /&gt;&#xA;&#xA;&#xA;&lt;p&gt;Ingredients:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Pasta — 1 cup&lt;/li&gt;&#xA;&lt;li&gt;Salsa sauce — 3 table spoons&lt;/li&gt;&#xA;&lt;li&gt;Cut up veggies — 3/5 cup&lt;/li&gt;&#xA;&lt;li&gt;Soy sauce — 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;Garlic powder/paste — 1/2 tsp&lt;/li&gt;&#xA;&lt;li&gt;Ginger powder/paste — 1/4 tsp&lt;/li&gt;&#xA;&lt;li&gt;Chilli powder — 3/4 tsp&lt;/li&gt;&#xA;&lt;li&gt;Parmesan Cheese grated — 1/4 cup&lt;/li&gt;&#xA;&lt;li&gt;Mayonnaise — 1.5 tsp&lt;/li&gt;&#xA;&lt;li&gt;Pepper grated — 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;Butter/ghee — 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;Vegetable oil — 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;Tomato sauce — 1 table spoon&lt;/li&gt;&#xA;&lt;li&gt;Salt — 1 tsp&lt;/li&gt;&#xA;&lt;li&gt;Turmeric powder — a pinch&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Steps:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
